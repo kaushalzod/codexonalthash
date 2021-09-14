@@ -5,6 +5,8 @@
 //     min-height: 144px !important;
 // }
 
+
+
 .heading_1-2{
     font-size: 32px !important;
 }
@@ -67,14 +69,27 @@
     .w-30{
         width: 30% !important;
     }
+    .bg_img_1{
+        background-image: url(/assets/Images/about/hero_bg.png) !important;
+    }
 
+    @media (min-width:768px)
+    {
+        .padding-first{
+            padding: 5.5rem 0 !important
+        }
+    }
     @media (max-width:768px)
     {
         .pad-20{
             padding-top: 30% !important;
+            padding-bottom: 10% !important;
         }
         .bg_img_2{
             background-image: url(/assets/Images/about/phone_sec2_bg.png) !important;
+        }
+        .bg_img_1{
+            background-image: url(/assets/Images/about/phone_sec1.png) !important;
         }
         .w-30{
             width: 65% !important;

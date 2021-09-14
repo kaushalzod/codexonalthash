@@ -39,16 +39,16 @@
             <a class="nav-link text-dark" routerLink="/news">News</a>
           </li>
 
-          <div class="nav-item my-2 my-md-0 mt-5">
-            <select name="" class="custom-select col-md-12 col-3" id="">
-              <option value="en">English</option>
-              <option value="en">English</option>
-              <option value="en">English</option>
+          <div class="nav-item my-2 my-md-0">
+            <select class="custom-select col-md-12 col-5" (change)="changeLang($event)">
+              <option value="en-US" [selected]="lang == 'en-US'">English</option>
+              <option value="ko-KO" [selected]="lang == 'ko-KO'">Korean</option>
+              <option value="pt-PT" [selected]="lang == 'pt-PT'">Portuguese</option>
             </select>
         </div>
           
         </ul>
       </div>
     </div>
-    <p *ngIf="navOpen" class="text-center">Copyright © Codex 2021</p>
+    <p *ngIf="navOpen" class="text-center display-n">Copyright © Codex 2021</p>
   </nav>

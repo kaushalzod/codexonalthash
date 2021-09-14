@@ -56,8 +56,14 @@
     }
   }
 }
+.display-n{
+  display: none !important;
+}
 
 @media (max-width:768px){
+  .display-n{
+    display: block !important;
+  }
   .navbar-close{
     .hambtn{
          display: block;

@@ -17,6 +17,21 @@ import { InvestmentpolicyComponent } from './website/pages/investmentpolicy/inve
 import { TermOfUseComponent } from './website/pages/term-of-use/term-of-use.component';
 import { DisclaimerComponent } from './website/pages/disclaimer/disclaimer.component';
 import { LegalOpinionComponent } from './website/pages/legal-opinion/legal-opinion.component';
+import { TranslateHttpLoader } from '@ngx-translate/http-loader';
+import { TranslateLoader, TranslateModule } from '@ngx-translate/core';
+import { HttpClient, HttpClientModule } from '@angular/common/http';
+import { InternationalizationModule } from './internationalization/internationalization.module';
+
+/**
+* The http loader factory : Loads the files from define path.
+* @param {HttpClient} http
+* @returns {TranslateHttpLoader}
+* @constructor
+*/
+export function HttpLoaderFactory(http: HttpClient) {
+  return new TranslateHttpLoader(http, '../assets/locales/', '.json');
+}
+
 
 @NgModule({
   declarations: [
@@ -38,7 +53,16 @@ import { LegalOpinionComponent } from './website/pages/legal-opinion/legal-opini
   imports: [
     BrowserModule,
     OwlModule,
-    AppRoutingModule
+    AppRoutingModule,
+    HttpClientModule,
+    InternationalizationModule.forRoot({ locale_id: 'en-US' }), // iniating with default language: en-US
+    TranslateModule.forRoot({
+      loader: {
+        provide: TranslateLoader,
+        useFactory: HttpLoaderFactory,
+        deps: [HttpClient]
+      }
+    })
   ],
   providers: [],
   bootstrap: [AppComponent]

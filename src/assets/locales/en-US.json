@@ -1,0 +1,14 @@
+{
+    "homepage": {
+      "hello" : "Hello",
+      "world": "world",
+      "change_lang_label": "The Language From Below Drop Down"
+    },
+    "about":{
+
+    },
+    "university":{},
+    "news":{},
+    "walletbot":{}
+
+  }
