@@ -1,0 +1,46 @@
+<nav class="navbar navbar-expand-lg fixed-top navbar-light bg-white pb-round shadow-sm" [ngClass]="{ 'navbar-open': navOpen, 'navbar-close': !navOpen  }">
+    <div class="container d-flex justify-content-between px-4">
+      <a class="navbar-brand" routerLink="/">
+       
+        <img src="assets/Images/logo.svg" alt="codexonalthash">
+
+        </a>
+      <button class="navbar-toggler border-0" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation" [ngClass]="{ 'nav-open': navOpen, 'nav-close': !navOpen  }" (click)="toggleMenu()">
+        <!-- <span class="navbar-toggler-icon" ></span> -->
+        <img src="assets/navbar-collapse.svg" alt="" *ngIf="!navOpen">
+        <img src="assets/navbar-cross.svg" alt="" *ngIf="navOpen">
+      </button>
+      <div class="collapse navbar-collapse ml-auto flex-grow-0" id="navbarSupportedContent">
+        <ul class="navbar-nav ms-auto mb-2 mb-lg-0 ">
+          <div class="nav-item dropdown my-2 my-md-0 mt-5">
+              <a  style="cursor: pointer;" class="nav-link text-dark" id="dropdownMenuButton1" data-bs-toggle="dropdown" aria-expanded="false">Codex Ecosystem</a>
+            <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton1">
+              <li><a class="dropdown-item p-small fw-bold" target="_blank" href="https://codexworkplace.com/">Codex Workplace</a></li>
+              <li><a class="dropdown-item p-small fw-bold" routerLink="/walletbot">Codex Wallet Bot</a></li>
+              <li><a class="dropdown-item p-small fw-bold" routerLink="/althash-university">Altash University</a></li>
+            </ul>
+          </div>
+          
+          <div class="nav-item dropdown my-2  my-md-0">
+            <a style="cursor: pointer;" class="nav-link text-dark"  id="dropdownMenuButton2" data-bs-toggle="dropdown" aria-expanded="false">Community</a>
+            <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton2">
+              <li><a class="dropdown-item p-small fw-bold" target="_blank" href="https://t.me/Codex_on_Althash">Telegram Community</a></li>
+              <li><a class="dropdown-item p-small fw-bold" target="_blank" href="https://www.instagram.com/codex_on_althash/">Instagram Community</a></li>
+              <li><a class="dropdown-item p-small fw-bold" target="_blank" href="https://twitter.com/Codex_HTML">Twitter Community</a></li>
+              <li><a class="dropdown-item p-small fw-bold" target="_blank" href="https://discord.gg/zQvbHr2">Discord Community</a></li>
+              <li><a class="dropdown-item p-small fw-bold" target="_blank" href="https://t.me/officialhtmlcoin">HTML Coin Telegram <br> Community</a></li>
+            </ul>
+          </div>
+        
+          <li class="nav-item my-2 my-md-0">
+            <a class="nav-link text-dark" routerLink="/about">About Althash</a>
+          </li>
+          <li class="nav-item my-2 my-md-0">
+            <a class="nav-link text-dark" routerLink="/news">News</a>
+          </li>
+          
+        </ul>
+      </div>
+    </div>
+    <p *ngIf="navOpen" class="text-center">Copyright © Codex 2021</p>
+  </nav>

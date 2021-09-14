@@ -1,0 +1,82 @@
+
+.heading_1{
+    font-size: 37.97px !important;
+}
+.subheading_normal{
+    font-size: 17.41px !important;
+}
+
+.heading_3{
+    font-size: 18.99px !important;
+}
+
+.p_big_180{
+    font-size: 14.24px !important;
+}
+
+.heading_2{
+    font-size: 25.32px !important;
+}
+
+.p_big_200{
+    font-size: 14.24px!important;
+}
+
+.heading_5{
+    font-size: 15.82px !important;
+}
+
+.bt-bg{
+background: linear-gradient(93.43deg, #574FE8 1.61%, #4112FF 100.53%);
+
+}
+
+.disclaimer{
+    font-size: 12.66px !important;
+}
+
+.fdb-block{
+    padding-bottom: 0;
+}
+.p-11rem{
+    padding-bottom: 11rem !important;
+}
+
+.end-bottom{
+    margin-bottom: -19% !important;
+}
+
+.vip_bg{
+    background-image: url(/assets/Images/wallet/vip_bg.png); 
+}
+
+.disc{
+    margin: -168px;
+    right: 0;
+    transform: rotate(33deg);
+    position: absolute;
+}
+.hero_bg{
+    background-image: url(/assets/Images/wallet/hero_bg.png);
+}
+
+@media (max-width: 768px) {
+    .p-11rem{
+        padding-bottom: 1rem !important;
+    }
+    .heading_1{
+        font-size: 32px !important;
+    }
+    .disc{
+        margin: -168px;
+    right: -7px;
+    transform: rotate(33deg);
+    position: absolute;
+    }
+    .vip_bg{
+        background-image: url(/assets/Images/wallet/phone_bg_vip.png); 
+    }
+    .hero_bg{
+        background-image: url(/assets/Images/wallet/phone_hero_bg.png);
+    }
+}

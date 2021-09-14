@@ -1,0 +1,86 @@
+// .card-size{
+//     min-height: 525px !important;
+// }
+// .content-size{
+//     min-height: 144px !important;
+// }
+
+.heading_1-2{
+    font-size: 32px !important;
+}
+
+.card-img-top{
+        height: 180px;
+        object-fit: cover;
+}
+
+.subheading{
+        font-size: 18.99px !important;
+        color: #636363;
+}
+.heading_1{
+        font-size: 56.96px !important;
+        line-height: 100% !important;
+}
+
+
+
+    .subheading_normal{
+        font-size: 17.41px !important;
+    }
+    
+    .heading_3{
+        font-size: 18.99px !important;
+    }
+    
+    .p_big_180{
+        font-size: 14.24px !important;
+    }
+    
+    .heading_2{
+        font-size: 25.32px !important;
+    }
+    
+    .p_big_200{
+        font-size: 14.24px!important;
+    }
+    
+    .heading_5{
+        font-size: 15.82px !important;
+    }
+    .heading_4{
+        font-size: 17.41px !important;
+    }
+    
+    .bt-bg{
+    background: linear-gradient(93.43deg, #574FE8 1.61%, #4112FF 100.53%);
+    }
+    
+    .fdb-block{
+        padding-bottom: 0;
+    }
+
+    .bg_img_2{
+        background-image: url(/assets/Images/about/sec2_bg.png) !important;
+    }
+
+    .w-30{
+        width: 30% !important;
+    }
+
+    @media (max-width:768px)
+    {
+        .pad-20{
+            padding-top: 30% !important;
+        }
+        .bg_img_2{
+            background-image: url(/assets/Images/about/phone_sec2_bg.png) !important;
+        }
+        .w-30{
+            width: 65% !important;
+        }
+        .heading_1-2{
+            padding-top: 20px;
+            font-size: 32px !important;
+        }
+    }

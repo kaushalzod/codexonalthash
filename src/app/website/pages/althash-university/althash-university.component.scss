@@ -1,0 +1,60 @@
+.heading_1{
+    font-size: 38px !important;
+    padding-bottom: 5px;
+}
+.w-55{
+    width: 55% !important;
+}
+.p-40{
+    padding-bottom: 20% !important;
+}
+
+.hero_bg{
+    background-image: url(/assets/Images/university/hero_bg.png) !important; 
+}
+.register_bg{
+    background-image: url(/assets/Images/university/register_bg.png) !important; 
+}
+
+@media (max-width:768px) {
+    .w-55{
+        width: 65% !important;
+    }
+    .p-40{
+        padding-bottom: 40% !important;
+    }
+    .register_bg{
+        background-image: url(/assets/Images/university/phone_bg_1.png) !important; 
+    }
+    
+    .hero_bg{
+        background-image: url(/assets/Images/university/phone_bg.png) !important; 
+    }
+}
+
+.heading_3{
+    font-size: 25.32px !important ;
+}
+
+input{
+    width: 90%;
+    font-size: 0.9rem!important;
+    font-weight: 400!important;
+    border: none;
+    border-bottom: 1px solid #d3d3d3;
+}
+textarea{
+    width: 100%;
+    font-size: 0.9rem!important;
+    font-weight: 400!important;
+    border: none;
+    border-bottom: 1px solid #d3d3d3;
+}
+
+
+textarea:focus{
+    outline: none;
+}
+input:focus{
+    outline: none;
+}

@@ -1,0 +1,37 @@
+.footer-large{
+    margin-top: -140px;
+}
+
+.fdb-block{
+    background-color: transparent !important;
+    padding-bottom: 3.5rem;
+}
+
+.foot_bg_img{
+    background-image: url(/assets/Images/Footer.png) !important;
+}
+
+@media (max-width:768px) {
+    .foot_bg_img{
+        background-image: url(/assets/Images/home/phone_bg_3.png) !important;
+    }
+    .mt-25{
+        margin-top: 25% !important;
+    }
+    .footer-large{
+        margin-top: -190px !important;
+    }
+}
+
+.nav.flex-column{
+    .nav-link{
+        color: #635CDB;
+        padding-left: 0;
+        padding-right: 0;
+
+        a{
+            font-size: 14px;
+            margin-bottom: 0.5rem;
+        }
+    }
+}

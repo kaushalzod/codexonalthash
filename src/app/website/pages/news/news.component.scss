@@ -1,0 +1,20 @@
+
+h5{
+    line-height: 1.8;
+}
+
+
+
+@media (max-width:768px){
+    .heading_1{
+        font-size: 32px !important;
+    }
+    .pad-200{
+        text-align: center;
+        padding-top: 20% !important;
+    }
+    .news_img{
+        height: 220px;
+        object-fit: cover;
+    }
+}
