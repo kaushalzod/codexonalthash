@@ -1,14 +1,274 @@
 {
-    "homepage": {
-      "hello" : "Hello",
-      "world": "world",
-      "change_lang_label": "The Language From Below Drop Down"
+  "homepage": {
+    "section1": {
+      "made_on_althash": "made on Althash",
+      "ecosystem_made_for": "Ecosystem made for new generation developers pushing innovation behind blockchain application and software development",
+      "made_on": "Made on",
+      "powered_by": "Powered by"
     },
-    "about":{
+    "section2": {
+      "bringing_the_new_heading": "Bringing the new generation developers closer to build a community of innovation in the field of blockchain and software development",
+      "codex_on_althash_subheading": "Codex on Althash is a software company that specializes in creation of blockchain applications, programming, services (SaaS)",
+      "item1": {
+        "heading": "We started the journey in 2019",
+        "content": "The company was created in response to a growing community on Althash where developers needed an ecosystem to interact and communicate in."
+      },
+      "item2": {
+        "heading": "CodexWalletBot on Telegram Launched",
+        "content": "CodexWalletBot allowed users in the Althash ecosystem to easily communicate with each other while simultaneously sending and receiving HTMLCoin and tokens."
+      },
+      "item3": {
+        "heading": "Bringing the AltHash Community Together",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sociis ut pellentesque amet velit elementum. Vulputate faucibus molestie aenean convallis tempus consequat morbi arcu."
+      },
+      "item4": {
+        "heading": "Promoting the Blockchain Development/HTML Coin/AltHash",
+        "content": "The Codex Team contains members from the HTMLCoin community, as well as a few founding members of HTMLBunker."
+      }
+    },
+    "section3": {
+      "common_goal": "A Common Goal",
+      "subheading": "A community that believes in innovation",
+      "our_mission": "OUR MISSION",
+      "content": "The Codex mission is to continuously build an ecosystem of programmers and developers on Althash with focus on building value through utility. By on-boarding many skilled freelancers, we are able to introduce them to the HTMLCoin software as well as promote applicatory advancements for Codex on Althash."
+    },
+    "section4": {
+      "why_codex": "Why choose CODEX",
+      "item1": {
+        "heading": "Lightening Fast Transfers",
+        "content": "Sending HRC20 tokens takes just minutes. Using the 'CodexWalletBot' you can check your pending transactions as well as see your balance."
+      },
+      "item2": {
+        "heading": "Nearly Fee-less Transactions",
+        "content": "With HTMLCoin’s current market valuation you can send hundreds of transactions for pennies, and each transaction will cost less than 1 HTML."
+      },
+      "item3": {
+        "heading": "Based on HTMLCoin",
+        "content": "A secure blockchain that is entirely based on the smart contracts of Ethereum and the Bitcoin Core Network."
+      }
+    },
+    "section5": {
+      "our_community": "OUR COMMUNITY TOKEN",
+      "from_more_than": "From more than 20+ available community tokens on AltHash. CDEX is one of them. Made in March 2019 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quis placerat enim sapien augue aliquet semper at integer.",
+      "made_on_althash": "Made on Althash",
+      "quick_and_eff": "Quick and Efficient",
+      "available_on": "Available on 10+ Exchanges",
+      "explore_other_community": "EXPLORE OTHER COMMUNITY TOKENS ON ALTHASH ",
+      "buy_now": "Buy Now "
+    },
+    "section6": {
+      "heading": "Codex Ecosystem",
+      "subheading": "Platforms on codex made for the community to use.",
+      "workplace": {
+        "heading": "Codex Workplace",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Molestie non facilisis ornare nam enim, vitae lacus vitae. Curabitur adipiscing feugiat euismod viverra vulputate lorem. Sit gravida molestie enim lorem. Egestas scelerisque aliquam at velit habitant et pellentesque vehicula nisl. Sed mi pulvinar eget semper auctor nisl feugiat.",
+        "btn1": "Go to Workplace",
+        "btn2": ""
+      },
+      "walletbot": {
+        "heading": "HRC 20 CodexWallet Bot",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Molestie non facilisis ornare nam enim, vitae lacus vitae. Curabitur adipiscing feugiat euismod viverra vulputate lorem. Sit gravida molestie enim lorem. Egestas scelerisque aliquam at velit habitant et pellentesque vehicula nisl. Sed mi pulvinar eget semper auctor nisl feugiat.",
+        "btn1": "Go to CodexWallet Bot",
+        "btn2": "Learn More"
+      },
+      "university": {
+        "heading": "Altash University",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Molestie non facilisis ornare nam enim, vitae lacus vitae. Curabitur adipiscing feugiat euismod viverra vulputate lorem. Sit gravida molestie enim lorem. Egestas scelerisque aliquam at velit habitant et pellentesque vehicula nisl. Sed mi pulvinar eget semper auctor nisl feugiat.",
+        "btn1": "Go to Althash University",
+        "btn2": "Learn More"
+      }
+    },
+    "section7": {
+      "our_journey": "Our Journey",
+      "subheading": "See the progress of our community ",
+      "title1": "codex roadmap 1.0",
+      "title2": "codex roadmap 2.0",
+      "codex_roadmap1": [
+        {
+          "date": "March 2019",
+          "text": "Codex is created"
+        },
+        {
+          "date": "April 2019",
+          "text": "Codex Team is hired"
+        },
+        {
+          "date": "May 2019",
+          "text": "Release of Codex Tip Bot"
+        },
+        {
+          "date": "June 2019",
+          "text": "HTML Coin main group and community groups start using CDEX Tip Bot"
+        },
+        {
+          "date": "July 2019",
+          "text": "Release of Codex Freelance Coding platform"
+        },
+        {
+          "date": "August 2019",
+          "text": "Fine tuning of Platform and Tip bot"
+        },
+        {
+          "date": "September 2019",
+          "text": "Ecosystem of programmers using CDEX and HTML emerges CDEX programming competitions begin"
+        },
+        {
+          "date": "Oct 2019 - Nov 2019",
+          "text": "Fine tuning of tools/programming competitions on platform"
+        },
+        {
+          "date": "Dec 2019 - Dec 2020",
+          "text": "Creation of bots using AI"
+        }
+      ],
+      "roadmap2": [
+        {
+          "date": " Nov - Dec 2020",
+          "text": "Update Codex Wallet Bot"
+        },
+        {
+          "date": "Jan-Feb 2021",
+          "text": "Release Codex WorkPlace Job Platform"
+        },
+        {
+          "date": "Mar-Apr 2021",
+          "text": "Build Codex Platform Utility"
+        },
+        {
+          "date": "May-June 2021",
+          "text": "Marketing Campaign"
+        },
+        {
+          "date": "July-Aug 2021",
+          "text": "Update Codex Wallet Bot"
+        },
+        {
+          "date": "Sept-Oct 2021",
+          "text": "Development on Codex Forex Platform Begins"
+        },
+        {
+          "date": "Nov-Dec 2021",
+          "text": "Continue Codex Forex Platform Development"
+        },
+        {
+          "date": "Jan-June 2022",
+          "text": "Global Crypto Marketing Tour"
+        },
+        {
+          "date": "July - Dec 2022",
+          "text": "Establish Global Institutional Partners"
+        }
+      ]
+    },
+    "section8": {
+      "latest_news": "Latest News",
+      "subheading": "See the latest updates from the CODEX community",
+      "read_more": "Read More",
+      "title1": "The CDEXplorer is completed. A rebuilt version of the HTML explorer",
+      "title2": "Completion of the 5th Monthly Airdrop for VIPs",
+      "title3": "Graviex Lists CDEX with pairs in ETH, DOGE, & BTC ",
+      "see_all_btn": "See all news"
+    },
+    "section9": {
+      "welcome": "Welcome to the community",
+      "subheading": "Platforms on codex made for the community to use.",
+      "telegram": "Telegram Community",
+      "instagram": "Instagram Community",
+      "twitter": "Twitter Community",
+      "discord": "Discord Community",
+      "htmlcoin": "HTML Coin Telegram Community",
+      "readmore": "Read More",
+      "start_building": "Start building and contribute to community",
+      "subheading2": "Platforms on codex made for the community to use.",
+      "developer": "Developer Docs",
+      "seedoc": "See Documentation"
+    },
+    "section10": {
+      "our_partner": "Our Partners"
+    }
+  },
+  
+  "about": {
+    "section1":{
+      "powered_by":"Powered by HTML Coin",
+      "A_blockchain_support":"A Blockchain supporting CODEX and many other platforms like it.",
+      "subheading":"AltHash a Blockchain as a Service (BaaS) company focused on providing decentralized ledger and blockchain solutions to governments and large institutions throughout the world."
+    },
+    "section2":{
 
     },
-    "university":{},
-    "news":{},
-    "walletbot":{}
+    "section3":{
 
+    },
+    "section4":{
+
+    }
+  },
+
+  "university": {},
+
+  "news": {},
+
+  "walletbot": {},
+
+  "footer": {
+    "subheading": "Bringing the new generation developers closer to build a community of innovation in the field of blockchain and software development",
+    "company": {
+      "title":"Company",
+      "home": "Home",
+      "white_paper": "White Paper",
+      "roadmap": "Road Map",
+      "news": "News",
+      "careers": "Careers"
+    },
+    "community": {
+      "title":"Community",
+      "room": "HRC20 RAIN Room",
+      "telegram": "Telegram",
+      "mamby": "Mamby",
+      "discord": "Discord",
+      "floyx": "Floyx",
+      "sapien": "Sapien Network"
+    },
+    "support": {
+      "title":"Support",
+      "faq": "FAQ",
+      "investment_policy": "Investment Policy",
+      "terms_of_Use": "Terms of Use",
+      "disclamer": "Disclamer",
+      "privacy_policy": "Privacy Policy",
+      "legal_opinion": "Legal Opinion",
+      "wallets": "Wallets",
+      "security_best_practices": "Security Best Practices"
+    },
+    "connect":{
+      "title":"Connect with Us",
+      "findus":"Find us on",
+      "linkedin":"Linkedin",
+      "twitter":"Twitter",
+      "medium":"Medium",
+      "steemit":"Steemit",
+      "contactus":"Contact us",
+      "dev":"Dev@codexonalthash.com",
+      "bblog":"bbalog@htmlcoin.team"
+    }
+  },
+  "navbar":{
+    "ecosystem":"Codex Ecosystem",
+    "community":"Community",
+    "about":"About",
+    "news":"News",
+    "dropdown1":{
+      "item1":"Codex Workplace",
+      "item2":"Codex Wallet Bot",
+      "item3":"Altash University"
+    },
+    "dropdown2":{
+      "item1":"Telegram Community",
+      "item2":"Instagram Community",
+      "item3":"Twitter Community",
+      "item4":"Discord Community",
+      "item5":"HTML Coin Telegram"
+    }
   }
+}
