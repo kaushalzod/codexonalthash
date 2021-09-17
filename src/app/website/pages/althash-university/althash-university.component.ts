@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+declare var $:any;
 
 @Component({
   selector: 'app-althash-university',
@@ -12,4 +13,10 @@ export class AlthashUniversityComponent implements OnInit {
   ngOnInit(): void {
   }
 
+  submitForm(){
+    $('#thanksModal').modal('show');
+  }
+  closeModel(){
+    $('#thanksModal').modal('hide');
+  }
 }
