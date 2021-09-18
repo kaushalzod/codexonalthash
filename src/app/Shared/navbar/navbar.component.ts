@@ -23,6 +23,10 @@ export class NavbarComponent implements OnInit {
     console.log(this.navOpen);
   }
 
+  closeMenu(){
+    this.navOpen=false;
+  }
+
   changeLang(lang:any){
     var langcode=lang.target.value;
     if(lang.target.value=='en-EN'){}

@@ -1,11 +1,11 @@
 <nav class="navbar navbar-expand-lg fixed-top navbar-light bg-white pb-round shadow-sm" [ngClass]="{ 'navbar-open': navOpen, 'navbar-close': !navOpen  }">
     <div class="container d-flex justify-content-between px-4">
-      <a class="navbar-brand" routerLink="/">
+      <a class="navbar-brand" routerLink="/" data-bs-toggle="collapse" data-bs-target=".navbar-collapse.show" (click)="closeMenu()">
        
         <img src="assets/Images/logo.svg" alt="codexonalthash">
 
         </a>
-      <button class="navbar-toggler border-0" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation" [ngClass]="{ 'nav-open': navOpen, 'nav-close': !navOpen  }" (click)="toggleMenu()">
+      <button class="navbar-toggler border-0" type="button" data-bs-toggle="collapse"  data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation" [ngClass]="{ 'nav-open': navOpen, 'nav-close': !navOpen  }" (click)="toggleMenu()">
         <!-- <span class="navbar-toggler-icon" ></span> -->
         <img src="assets/navbar-collapse.svg" alt="" *ngIf="!navOpen">
         <img src="assets/navbar-cross.svg" alt="" *ngIf="navOpen">
@@ -15,10 +15,10 @@
           <div class="nav-item dropdown my-2 my-md-0 mt-5">
               <a  style="cursor: pointer;" class="nav-link text-dark" id="dropdownMenuButton1" data-bs-toggle="dropdown" aria-expanded="false">{{'navbar.ecosystem' | translate}}</a>
             <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton1">
-              <li><a class="dropdown-item p-small fw-bold" target="_blank" href="https://codexworkplace.com/">
+              <li><a class="dropdown-item p-small fw-bold" target="_blank" href="https://codexworkplace.com/" >
                 {{'navbar.dropdown1.item1' | translate}}</a></li>
-              <li><a class="dropdown-item p-small fw-bold" routerLink="/walletbot">{{'navbar.dropdown1.item2' | translate}}</a></li>
-              <li><a class="dropdown-item p-small fw-bold" routerLink="/althash-university">{{'navbar.dropdown1.item3' | translate}}</a></li>
+              <li><a class="dropdown-item p-small fw-bold" routerLink="/walletbot" data-bs-toggle="collapse" data-bs-target=".navbar-collapse.show" (click)="closeMenu()">{{'navbar.dropdown1.item2' | translate}}</a></li>
+              <li><a class="dropdown-item p-small fw-bold" routerLink="/althash-university" data-bs-toggle="collapse" data-bs-target=".navbar-collapse.show" (click)="closeMenu()">{{'navbar.dropdown1.item3' | translate}}</a></li>
             </ul>
           </div>
           
@@ -34,17 +34,17 @@
           </div>
         
           <li class="nav-item my-2 my-md-0">
-            <a class="nav-link text-dark" routerLink="/about">{{'navbar.about' | translate}}</a>
+            <a class="nav-link text-dark" routerLink="/about" data-bs-toggle="collapse" data-bs-target=".navbar-collapse.show" (click)="closeMenu()">{{'navbar.about' | translate}}</a>
           </li>
           <li class="nav-item my-2 my-md-0">
-            <a class="nav-link text-dark" routerLink="/news">{{'navbar.news' | translate}}</a>
+            <a class="nav-link text-dark" routerLink="/news" data-bs-toggle="collapse" data-bs-target=".navbar-collapse.show" (click)="closeMenu()">{{'navbar.news' | translate}}</a>
           </li>
 
           <div class="nav-item my-2 my-md-0">
             <select class="custom-select col-md-12 col-5 rounded-pill" (change)="changeLang($event)">
               <option value="en-US" [selected]="lang == 'en-US'">English</option>
-              <option value="ko-KO" [selected]="lang == 'ko-KO'">Korean</option>
-              <option value="pt-PT" [selected]="lang == 'pt-PT'">Portuguese</option>
+              <option value="ko-KO" [selected]="lang == 'ko-KO'">한국인</option>
+              <option value="pt-PT" [selected]="lang == 'pt-PT'">Português</option>
             </select>
         </div>
           
