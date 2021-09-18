@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-
+declare var $:any;
 @Component({
   selector: 'app-homepage',
   templateUrl: './homepage.component.html',
@@ -27,6 +27,12 @@ export class HomepageComponent implements OnInit {
     item.previous([200]);
   }
 
+  submitForm(){
+    $('#exchangeModal').modal('show');
+  }
+  closeModel(){
+    $('#exchangeModal').modal('hide');
+  }
    profileCarousel: any = {
     loop: false,
     navSpeed: 700,
