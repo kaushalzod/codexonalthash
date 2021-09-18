@@ -1,55 +1,71 @@
-<nav class="navbar navbar-expand-lg fixed-top navbar-light bg-white pb-round shadow-sm" [ngClass]="{ 'navbar-open': navOpen, 'navbar-close': !navOpen  }">
-    <div class="container d-flex justify-content-between px-4">
-      <a class="navbar-brand" routerLink="/" data-bs-toggle="collapse" data-bs-target=".navbar-collapse.show" (click)="closeMenu()">
-       
-        <img src="assets/Images/logo.svg" alt="codexonalthash">
-
-        </a>
-      <button class="navbar-toggler border-0" type="button" data-bs-toggle="collapse"  data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation" [ngClass]="{ 'nav-open': navOpen, 'nav-close': !navOpen  }" (click)="toggleMenu()">
-        <!-- <span class="navbar-toggler-icon" ></span> -->
-        <img src="assets/navbar-collapse.svg" alt="" *ngIf="!navOpen">
-        <img src="assets/navbar-cross.svg" alt="" *ngIf="navOpen">
-      </button>
-      <div class="collapse navbar-collapse ml-auto flex-grow-0" id="navbarSupportedContent">
-        <ul class="navbar-nav ms-auto mb-2 mb-lg-0 ">
-          <div class="nav-item dropdown my-2 my-md-0 mt-5">
-              <a  style="cursor: pointer;" class="nav-link text-dark" id="dropdownMenuButton1" data-bs-toggle="dropdown" aria-expanded="false">{{'navbar.ecosystem' | translate}}</a>
-            <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton1">
-              <li><a class="dropdown-item p-small fw-bold" target="_blank" href="https://codexworkplace.com/" >
+<nav class="navbar navbar-expand-lg fixed-top navbar-light bg-white pb-round shadow-sm"
+  [ngClass]="{ 'navbar-open': navOpen, 'navbar-close': !navOpen  }">
+  <div class="container d-flex justify-content-between px-4">
+    <a class="navbar-brand" routerLink="/" data-bs-toggle="collapse" data-bs-target=".navbar-collapse.show"
+      (click)="closeMenu()">
+      <img src="assets/Images/logo.svg" alt="codexonalthash">
+    </a>
+    <button class="navbar-toggler border-0" type="button" data-bs-toggle="collapse"
+      data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
+      aria-label="Toggle navigation" [ngClass]="{ 'nav-open': navOpen, 'nav-close': !navOpen  }" (click)="toggleMenu()">
+      <!-- <span class="navbar-toggler-icon" ></span> -->
+      <img src="assets/navbar-collapse.svg" alt="" *ngIf="!navOpen">
+      <img src="assets/navbar-cross.svg" alt="" *ngIf="navOpen">
+    </button>
+    <div class="collapse navbar-collapse ml-auto flex-grow-0" id="navbarSupportedContent">
+      <ul class="navbar-nav ms-auto mb-2 mb-lg-0 ">
+        <div class="nav-item dropdown my-2 my-md-0 mt-5">
+          <a style="cursor: pointer;" class="nav-link text-dark" id="dropdownMenuButton1" data-bs-toggle="dropdown"
+            aria-expanded="false">{{'navbar.ecosystem' | translate}}</a>
+          <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton1">
+            <li><a class="dropdown-item p-small fw-bold" target="_blank" href="https://codexworkplace.com/">
                 {{'navbar.dropdown1.item1' | translate}}</a></li>
-              <li><a class="dropdown-item p-small fw-bold" routerLink="/walletbot" data-bs-toggle="collapse" data-bs-target=".navbar-collapse.show" (click)="closeMenu()">{{'navbar.dropdown1.item2' | translate}}</a></li>
-              <li><a class="dropdown-item p-small fw-bold" routerLink="/althash-university" data-bs-toggle="collapse" data-bs-target=".navbar-collapse.show" (click)="closeMenu()">{{'navbar.dropdown1.item3' | translate}}</a></li>
-            </ul>
-          </div>
-          
-          <div class="nav-item dropdown my-2  my-md-0">
-            <a style="cursor: pointer;" class="nav-link text-dark"  id="dropdownMenuButton2" data-bs-toggle="dropdown" aria-expanded="false">{{'navbar.community' | translate}}</a>
-            <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton2">
-              <li><a class="dropdown-item p-small fw-bold" target="_blank" href="https://t.me/Codex_on_Althash">{{'navbar.dropdown2.item1' | translate}}</a></li>
-              <li><a class="dropdown-item p-small fw-bold" target="_blank" href="https://www.instagram.com/codex_on_althash/">{{'navbar.dropdown2.item2' | translate}}</a></li>
-              <li><a class="dropdown-item p-small fw-bold" target="_blank" href="https://twitter.com/Codex_HTML">{{'navbar.dropdown2.item3' | translate}}</a></li>
-              <li><a class="dropdown-item p-small fw-bold" target="_blank" href="https://discord.gg/zQvbHr2">{{'navbar.dropdown2.item4' | translate}}</a></li>
-              <li><a class="dropdown-item p-small fw-bold" target="_blank" href="https://t.me/officialhtmlcoin">{{'navbar.dropdown2.item5' | translate}} <br> {{'navbar.community' | translate}}</a></li>
-            </ul>
-          </div>
-        
-          <li class="nav-item my-2 my-md-0">
-            <a class="nav-link text-dark" routerLink="/about" data-bs-toggle="collapse" data-bs-target=".navbar-collapse.show" (click)="closeMenu()">{{'navbar.about' | translate}}</a>
-          </li>
-          <li class="nav-item my-2 my-md-0">
-            <a class="nav-link text-dark" routerLink="/news" data-bs-toggle="collapse" data-bs-target=".navbar-collapse.show" (click)="closeMenu()">{{'navbar.news' | translate}}</a>
-          </li>
-
-          <div class="nav-item my-2 my-md-0">
-            <select class="custom-select col-md-12 col-5 rounded-pill" (change)="changeLang($event)">
-              <option value="en-US" [selected]="lang == 'en-US'">English</option>
-              <option value="ko-KO" [selected]="lang == 'ko-KO'">한국인</option>
-              <option value="pt-PT" [selected]="lang == 'pt-PT'">Português</option>
-            </select>
+            <li><a class="dropdown-item p-small fw-bold" routerLink="/walletbot" data-bs-toggle="collapse"
+                data-bs-target=".navbar-collapse.show" (click)="closeMenu()">{{'navbar.dropdown1.item2' |
+                translate}}</a></li>
+            <li><a class="dropdown-item p-small fw-bold" routerLink="/althash-university" data-bs-toggle="collapse"
+                data-bs-target=".navbar-collapse.show" (click)="closeMenu()">{{'navbar.dropdown1.item3' |
+                translate}}</a></li>
+          </ul>
         </div>
-          
-        </ul>
-      </div>
+
+        <div class="nav-item dropdown my-2  my-md-0">
+          <a style="cursor: pointer;" class="nav-link text-dark" id="dropdownMenuButton2" data-bs-toggle="dropdown"
+            aria-expanded="false">{{'navbar.community' | translate}}</a>
+          <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton2">
+            <li><a class="dropdown-item p-small fw-bold" target="_blank"
+                href="https://t.me/Codex_on_Althash">{{'navbar.dropdown2.item1' | translate}}</a></li>
+            <li><a class="dropdown-item p-small fw-bold" target="_blank"
+                href="https://www.instagram.com/codex_on_althash/">{{'navbar.dropdown2.item2' | translate}}</a></li>
+            <li><a class="dropdown-item p-small fw-bold" target="_blank"
+                href="https://twitter.com/Codex_HTML">{{'navbar.dropdown2.item3' | translate}}</a></li>
+            <li><a class="dropdown-item p-small fw-bold" target="_blank"
+                href="https://discord.gg/zQvbHr2">{{'navbar.dropdown2.item4' | translate}}</a></li>
+            <li><a class="dropdown-item p-small fw-bold" target="_blank"
+                href="https://t.me/officialhtmlcoin">{{'navbar.dropdown2.item5' | translate}} <br> {{'navbar.community'
+                | translate}}</a></li>
+          </ul>
+        </div>
+
+        <li class="nav-item my-2 my-md-0">
+          <a class="nav-link text-dark" routerLink="/about" data-bs-toggle="collapse"
+            data-bs-target=".navbar-collapse.show" (click)="closeMenu()">{{'navbar.about' | translate}}</a>
+        </li>
+        <li class="nav-item my-2 my-md-0">
+          <a class="nav-link text-dark" routerLink="/news" data-bs-toggle="collapse"
+            data-bs-target=".navbar-collapse.show" (click)="closeMenu()">{{'navbar.news' | translate}}</a>
+        </li>
+
+        <div class="nav-item my-2 my-md-0">
+          <select class="custom-select col-md-12 col-5 rounded-pill" (change)="changeLang($event)">
+            <option value="en-US" [selected]="lang == 'en-US'">English</option>
+            <option value="ko-KO" [selected]="lang == 'ko-KO'">한국인</option>
+            <option value="pt-PT" [selected]="lang == 'pt-PT'">Português</option>
+          </select>
+        </div>
+
+      </ul>
     </div>
-    <p *ngIf="navOpen" class="text-center display-n">Copyright © Codex 2021</p>
-  </nav>
+  </div>
+  <p *ngIf="navOpen" class="text-center display-n">Copyright © Codex 2021</p>
+</nav>
