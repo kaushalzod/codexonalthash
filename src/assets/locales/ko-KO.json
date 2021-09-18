@@ -1,11 +1,10 @@
 {
-    "homepage": {
-      "section1": {
-        "made_on_althash": "알타쉬에서 만든",
-        "ecosystem_made_for": "블록체인 애플리케이션 및 소프트웨어 개발 이면에서 혁신을 추진하는 차세대 개발자를 위한 생태계",
-        "made_on": "만든",
-        "powered_by": "에 의해 구동"
-      }
+  "homepage": {
+    "section1": {
+      "made_on_althash": "알타쉬에서 만든",
+      "ecosystem_made_for": "블록체인 애플리케이션 및 소프트웨어 개발 이면에서 혁신을 추진하는 차세대 개발자를 위한 생태계",
+      "made_on": "만든",
+      "powered_by": "에 의해 구동"
     },
     "section2": {
       "bringing_the_new_heading": "블록체인 및 소프트웨어 개발 분야의 혁신 커뮤니티를 구축하기 위해 차세대 개발자를 더 가깝게 만듭니다.",
@@ -186,98 +185,99 @@
     },
     "section10": {
       "our_partner": "우리의 파트너들"
+    }
+  },
+  "about": {
+    "section1": {
+      "powered_by": "HTML 코인 제공",
+      "A_blockchain_support": "코덱스 및 이와 유사한 다른 많은 플랫폼을 지원하는 블록체인.",
+      "subheading": "AltHash는 전 세계 정부 및 대규모 기관에 분산 원장 및 블록체인 솔루션을 제공하는 데 중점을 둔 BaaS(Blockchain as a Service) 회사입니다."
     },
-    "about": {
-      "section1": {
-        "powered_by": "HTML 코인 제공",
-        "A_blockchain_support": "코덱스 및 이와 유사한 다른 많은 플랫폼을 지원하는 블록체인.",
-        "subheading": "AltHash는 전 세계 정부 및 대규모 기관에 분산 원장 및 블록체인 솔루션을 제공하는 데 중점을 둔 BaaS(Blockchain as a Service) 회사입니다."
+    "section2": {
+      "althash_is_a": "Althash는 비트코인과 이더리움 기술의 빠르고 안전한 거래 하이브리드를 갖춘 작업 증명/지분 증명 하이브리드 블록체인입니다.",
+      "card1": {
+        "heading": "비트코인의 보안",
+        "content": "더 빠른 속도와 추가 보안을 제공하는 추가 추상화 계층과 함께 UTXO 프로토콜의 보안 활용"
       },
-      "section2": {
-        "althash_is_a": "Althash는 비트코인과 이더리움 기술의 빠르고 안전한 거래 하이브리드를 갖춘 작업 증명/지분 증명 하이브리드 블록체인입니다.",
-        "card1": {
-          "heading": "비트코인의 보안",
-          "content": "더 빠른 속도와 추가 보안을 제공하는 추가 추상화 계층과 함께 UTXO 프로토콜의 보안 활용"
-        },
-        "card2": {
-          "heading": "이더리움의 유연성",
-          "content": "네트워크에 추가 속도와 기능을 제공하는 추가 추상화 계층이 있는 가상 머신의 유연성을 갖춘 블록체인입니다."
-        },
-        "some_heading": "HTML 코인은 수년 동안 전 세계적으로 사용되었습니다.",
-        "card3": {
-          "heading": "8년 이상의 경력.",
-          "content": "시간의 테스트를 견뎌냄으로써 HTML은 여러 약세 시장과 51%의 공격에서도 살아남음으로써 탄력성을 증명합니다."
-        },
-        "card4": {
-          "heading": "진정한 월드와이드 팀.",
-          "content": "6개 대륙의 숙련된 전문가로, 브라질과 아프리카에 기반을 둔 개발자가 많습니다."
-        },
-        "fueled_by": "HTMLCOIN으로 구동",
-        "fueled_content": "네트워크를 구동하는 암호화폐인 Althash 블록체인은 기관, 기업 및 개인을 위한 안전하고 사용하기 쉬운 애플리케이션을 위한 빠르고 효율적이며 신뢰할 수 있는 플랫폼을 제공할 수 있습니다."
+      "card2": {
+        "heading": "이더리움의 유연성",
+        "content": "네트워크에 추가 속도와 기능을 제공하는 추가 추상화 계층이 있는 가상 머신의 유연성을 갖춘 블록체인입니다."
       },
-      "section3": {
-        "activity_hours": "활동 시간",
-        "token_created": "토큰 생성",
-        "on_althash": "알타시에",
-        "active_apps": "활성 앱"
+      "some_heading": "HTML 코인은 수년 동안 전 세계적으로 사용되었습니다.",
+      "card3": {
+        "heading": "8년 이상의 경력.",
+        "content": "시간의 테스트를 견뎌냄으로써 HTML은 여러 약세 시장과 51%의 공격에서도 살아남음으로써 탄력성을 증명합니다."
       },
-      "section4": {
-        "visit_website": "웹사이트 방문",
-        "community_token": "Althash에서 만든 커뮤니티 토큰",
-        "subheading": "우리 AltHash 커뮤니티는 CODEX 자체 CDEX 토큰을 포함하여 많은 훌륭한 토큰을 만들었습니다. 토큰을 탐색하십시오.",
-        "news1": {
-          "title": "침대",
-          "content": "HTMLBunker는 30개 이상의 상위 쌍이 있는 HTMLCoin 전용 세계 최초의 거래소입니다. HTMLBunker는 개념에서 비롯되었으며 HTMLCoin 커뮤니티와 암호화 커뮤니티 전체에 기여할 필요가 있습니다."
-        },
-        "news2": {
-          "title": "졸라",
-          "content": "Althash 플랫폼에서 계약 지향적인 Solidity를 사용하여 구축된 무료 커뮤니티 프로젝트입니다. 유연하고 구성 가능하지만 XOLA 보호 요소(Simulated Proof-of-Stake)가 있는 HRC20 토큰 스마트 계약으로 설계되었습니다."
-        },
-        "news3": {
-          "title": "코덱스(CDEX)",
-          "content": "Codex 토큰은 Codex 생태계에서 주로 Codex Wallet Bot의 VIP 기능에 대한 액세스 토큰으로 사용됩니다."
-        }
-      }
+      "card4": {
+        "heading": "진정한 월드와이드 팀.",
+        "content": "6개 대륙의 숙련된 전문가로, 브라질과 아프리카에 기반을 둔 개발자가 많습니다."
+      },
+      "fueled_by": "HTMLCOIN으로 구동",
+      "fueled_content": "네트워크를 구동하는 암호화폐인 Althash 블록체인은 기관, 기업 및 개인을 위한 안전하고 사용하기 쉬운 애플리케이션을 위한 빠르고 효율적이며 신뢰할 수 있는 플랫폼을 제공할 수 있습니다."
     },
-    "university": {
-      "section":{
-        "althash_university":"알타시 대학교",
-        "an_initiative":"CODEX와 Althash의 이니셔티브는 신흥 기술 및 소프트웨어 개발의 잠재적인 인재를 육성합니다.",
-        "our":"우리의",
-        "mission":"사명",
-        "althash_strives":"Althash는 이 이니셔티브를 고급 코딩 전문 지식과 배경을 가진 학생들을 끌어들이는 글로벌 기술 '블록체인 운동'으로 만들기 위해 노력합니다.",
-        "some_catchy":"Some catchy heading related to University",
-        "by_interecting_with":"스마트 계약을 만드는 방법을 알고 있는 많은 개발자와 상호 작용합니다. 우리는 그들의 기술을 HTMLCoin에 적용하고 일상 생활에 적용할 수 있는 높은 유틸리티 응용 프로그램을 만들 수 있습니다. 팁 봇, 지불 시스템, 토큰 보상 프로그램은 모두 학생들이 HTMLCoins 스마트 계약 소프트웨어로 만들 수 있는 일부 창작물의 예입니다.",
-        "this_initiative":"이 이니셔티브는 전 세계의 블록체인 클럽, 특히 미국 대학의 클럽을 대상으로 합니다. 이 프로그램을 통해 학생들은 Althash와 함께 인턴십과 같은 프로그램에 참여할 수 있으며 여기서 Solidity 및 nodejs와 같은 기타 코딩 언어를 사용하여 스마트 계약을 생성할 수 있습니다. 선물받은 HTMLCoin과 CDEX 토큰은 이러한 클럽에 제공되어 활용도가 높은 응용 프로그램을 만드는 데 도움이 됩니다. 이 이니셔티브는 각 학생의 개발 경력에 대한 지평을 넓힐 뿐만 아니라 블록체인 공간에서 새로운 소프트웨어에 대한 이해를 증진할 것입니다.",
-        "register_now":"지금 등록하세요",
-        "how_this_work":"작동 방식",
-        "card1":"귀하의 클럽/조직을 등록하십시오.",
-        "card1.2":"알타쉬 대학교 프로그램",
-        "card2":"Althash는 인턴십을 위해 클럽 회원에게 제공합니다.",
-        "card3":"인턴은 Althash를 기반으로 하는 동안 기여하고 배울 수 있습니다.",
-        "card4":"수료 후 인턴은 인증서 $ Althash University 및 순위를 받게됩니다.",
-        "card5":"최고 성과자는 Atlas Community에서 직원으로 일할 수 있는 기회를 얻습니다.",
-        "step":"Step #",
-        "upon_completion":"프로그램이 완료되면 학생들은 과정 수료증과 Atlas 이니셔티브 '순위'를 받게 됩니다.",
-        "highly_qualified":"우수한 자격을 갖춘 학생들은 또한 프로그램 관리자로부터 인정을 받을 것이며 향후 관련 응용 프로그램을 만들 수 있도록 Althash에 고용될 것입니다."
+    "section3": {
+      "activity_hours": "활동 시간",
+      "token_created": "토큰 생성",
+      "on_althash": "알타시에",
+      "active_apps": "활성 앱"
+    },
+    "section4": {
+      "visit_website": "웹사이트 방문",
+      "community_token": "Althash에서 만든 커뮤니티 토큰",
+      "subheading": "우리 AltHash 커뮤니티는 CODEX 자체 CDEX 토큰을 포함하여 많은 훌륭한 토큰을 만들었습니다. 토큰을 탐색하십시오.",
+      "news1": {
+        "title": "침대",
+        "content": "HTMLBunker는 30개 이상의 상위 쌍이 있는 HTMLCoin 전용 세계 최초의 거래소입니다. HTMLBunker는 개념에서 비롯되었으며 HTMLCoin 커뮤니티와 암호화 커뮤니티 전체에 기여할 필요가 있습니다."
       },
-      "section2":{
-        "register_headline":"Althash University Program에 조직 등록",
-        "subheading":"혁신을 믿는 커뮤니티",
-        "first_name":"이름",
-        "place_first":"이름을 입력하세요",
-        "last_name":"성",
-        "place_last":"성을 입력하십시오",
-        "your_org":"조직",
-        "place_org":"조직 이름을 입력하세요.",
-        "members":"회원 수",
-        "phone_no":"전화 번호",
-        "place_phone":"연락처를 알려주세요",
-        "email":"귀하의 이메일",
-        "place_email":"이메일을 입력하세요",
-        "message":"우리를 위한 메시지",
-        "place_message":"저희에게 알려주셨으면 하는 사항을 언급해주세요",
-        "submit":"양식 제출"
+      "news2": {
+        "title": "졸라",
+        "content": "Althash 플랫폼에서 계약 지향적인 Solidity를 사용하여 구축된 무료 커뮤니티 프로젝트입니다. 유연하고 구성 가능하지만 XOLA 보호 요소(Simulated Proof-of-Stake)가 있는 HRC20 토큰 스마트 계약으로 설계되었습니다."
+      },
+      "news3": {
+        "title": "코덱스(CDEX)",
+        "content": "Codex 토큰은 Codex 생태계에서 주로 Codex Wallet Bot의 VIP 기능에 대한 액세스 토큰으로 사용됩니다."
       }
     }
+  },
+  "university": {
+    "section": {
+      "althash_university": "알타시 대학교",
+      "an_initiative": "CODEX와 Althash의 이니셔티브는 신흥 기술 및 소프트웨어 개발의 잠재적인 인재를 육성합니다.",
+      "our": "우리의",
+      "mission": "사명",
+      "althash_strives": "Althash는 이 이니셔티브를 고급 코딩 전문 지식과 배경을 가진 학생들을 끌어들이는 글로벌 기술 '블록체인 운동'으로 만들기 위해 노력합니다.",
+      "some_catchy": "Some catchy heading related to University",
+      "by_interecting_with": "스마트 계약을 만드는 방법을 알고 있는 많은 개발자와 상호 작용합니다. 우리는 그들의 기술을 HTMLCoin에 적용하고 일상 생활에 적용할 수 있는 높은 유틸리티 응용 프로그램을 만들 수 있습니다. 팁 봇, 지불 시스템, 토큰 보상 프로그램은 모두 학생들이 HTMLCoins 스마트 계약 소프트웨어로 만들 수 있는 일부 창작물의 예입니다.",
+      "this_initiative": "이 이니셔티브는 전 세계의 블록체인 클럽, 특히 미국 대학의 클럽을 대상으로 합니다. 이 프로그램을 통해 학생들은 Althash와 함께 인턴십과 같은 프로그램에 참여할 수 있으며 여기서 Solidity 및 nodejs와 같은 기타 코딩 언어를 사용하여 스마트 계약을 생성할 수 있습니다. 선물받은 HTMLCoin과 CDEX 토큰은 이러한 클럽에 제공되어 활용도가 높은 응용 프로그램을 만드는 데 도움이 됩니다. 이 이니셔티브는 각 학생의 개발 경력에 대한 지평을 넓힐 뿐만 아니라 블록체인 공간에서 새로운 소프트웨어에 대한 이해를 증진할 것입니다.",
+      "register_now": "지금 등록하세요",
+      "how_this_work": "작동 방식",
+      "card1": "귀하의 클럽/조직을 등록하십시오.",
+      "card1.2": "알타쉬 대학교 프로그램",
+      "card2": "Althash는 인턴십을 위해 클럽 회원에게 제공합니다.",
+      "card3": "인턴은 Althash를 기반으로 하는 동안 기여하고 배울 수 있습니다.",
+      "card4": "수료 후 인턴은 인증서 $ Althash University 및 순위를 받게됩니다.",
+      "card5": "최고 성과자는 Atlas Community에서 직원으로 일할 수 있는 기회를 얻습니다.",
+      "step": "Step #",
+      "upon_completion": "프로그램이 완료되면 학생들은 과정 수료증과 Atlas 이니셔티브 '순위'를 받게 됩니다.",
+      "highly_qualified": "우수한 자격을 갖춘 학생들은 또한 프로그램 관리자로부터 인정을 받을 것이며 향후 관련 응용 프로그램을 만들 수 있도록 Althash에 고용될 것입니다."
+    },
+    "section2": {
+      "register_headline": "Althash University Program에 조직 등록",
+      "subheading": "혁신을 믿는 커뮤니티",
+      "first_name": "이름",
+      "place_first": "이름을 입력하세요",
+      "last_name": "성",
+      "place_last": "성을 입력하십시오",
+      "your_org": "조직",
+      "place_org": "조직 이름을 입력하세요.",
+      "members": "회원 수",
+      "phone_no": "전화 번호",
+      "place_phone": "연락처를 알려주세요",
+      "email": "귀하의 이메일",
+      "place_email": "이메일을 입력하세요",
+      "message": "우리를 위한 메시지",
+      "place_message": "저희에게 알려주셨으면 하는 사항을 언급해주세요",
+      "submit": "양식 제출"
+    }
   }
+}

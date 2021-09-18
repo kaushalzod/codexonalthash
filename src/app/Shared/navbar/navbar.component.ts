@@ -25,6 +25,7 @@ export class NavbarComponent implements OnInit {
 
   changeLang(lang:any){
     var langcode=lang.target.value;
+    if(lang.target.value=='en-EN'){}
     localStorage.setItem('language', langcode);
     this.localizationService.initService();
     console.log(lang)

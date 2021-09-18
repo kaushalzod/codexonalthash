@@ -9,7 +9,7 @@ export class HomepageComponent implements OnInit {
 
   constructor() { }
 
-  slide=1;
+  slide=2;
   changeSlide(num:any){
     this.slide=num
     console.log(this.slide)

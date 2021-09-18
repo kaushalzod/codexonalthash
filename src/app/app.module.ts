@@ -21,6 +21,7 @@ import { TranslateHttpLoader } from '@ngx-translate/http-loader';
 import { TranslateLoader, TranslateModule } from '@ngx-translate/core';
 import { HttpClient, HttpClientModule } from '@angular/common/http';
 import { InternationalizationModule } from './internationalization/internationalization.module';
+import { FAQComponent } from './website/pages/faq/faq.component';
 
 /**
 * The http loader factory : Loads the files from define path.
@@ -48,7 +49,8 @@ export function HttpLoaderFactory(http: HttpClient) {
     InvestmentpolicyComponent,
     TermOfUseComponent,
     DisclaimerComponent,
-    LegalOpinionComponent
+    LegalOpinionComponent,
+    FAQComponent
   ],
   imports: [
     BrowserModule,
