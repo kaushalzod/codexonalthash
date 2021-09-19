@@ -1,0 +1,498 @@
+{
+    "homepage": {
+      "section1": {
+        "made_on_althash": "feito em Althash",
+        "ecosystem_made_for": "Ecossistema feito para desenvolvedores de nova geração que impulsionam a inovação por trás do aplicativo blockchain e desenvolvimento de software",
+        "made_on": "Feito em",
+        "powered_by": "Distribuído por"
+      },
+      "section2": {
+        "bringing_the_new_heading": "Trazendo os desenvolvedores da nova geração para mais perto de construir uma comunidade de inovação na área de blockchain e desenvolvimento de software",
+        "codex_on_althash_subheading": "Codex on Althash é uma empresa de software especializada na criação de aplicativos, programação e serviços de blockchain (SaaS)",
+        "item1": {
+          "heading": "Começamos a jornada em 2019",
+          "content": "A empresa foi criada em resposta a uma comunidade crescente em Althash, onde os desenvolvedores precisavam de um ecossistema para interagir e se comunicar."
+        },
+        "item2": {
+          "heading": "CodexWalletBot on Telegram lançado",
+          "content": "O CodexWalletBot permitiu que os usuários no ecossistema Althash se comuniquem facilmente uns com os outros enquanto enviam e recebem HTMLCoin e tokens simultaneamente."
+        },
+        "item3": {
+          "heading": "Unindo a Comunidade AltHash",
+          "content": "Por meio de fóruns e iniciativas do Codex, a comunidade Althash ganhou um senso de comunidade e crescimento entre os desenvolvedores e usuários de HTML."
+        },
+        "item4": {
+          "heading": "Promovendo o desenvolvimento de Blockchain em Althash / HTML Coin",
+          "content": "A equipe do Codex contém membros da comunidade HTMLCoin, bem como alguns membros fundadores do HTMLBunker."
+        }
+      },
+      "section3": {
+        "common_goal": "Um objetivo comum",
+        "subheading": "Uma comunidade que acredita na inovação",
+        "our_mission": "NOSSA MISSÃO",
+        "content": "A missão do Codex é construir continuamente um ecossistema de programadores e desenvolvedores em Althash com foco na construção de valor por meio da utilidade. Ao integrar muitos freelancers qualificados, podemos apresentá-los ao software HTMLCoin, bem como promover avanços nos aplicativos do Codex no Althash."
+      },
+      "section4": {
+        "why_codex": "Por que escolher o CODEX",
+        "item1": {
+          "heading": "Transações ultrarrápidas",
+          "content": "O envio de tokens HRC20 leva apenas alguns minutos. Usando o 'CodexWalletBot' você pode verificar suas transações pendentes, bem como ver seu saldo."
+        },
+        "item2": {
+          "heading": "Taxas de transação mínimas",
+          "content": "Com a avaliação de mercado atual do HTMLCoin, você pode enviar centenas de transações para frações de um HTML; praticamente grátis."
+        },
+        "item3": {
+          "heading": "Baseado em HTMLCoin",
+          "content": "Um blockchain seguro que é inteiramente baseado nos contratos inteligentes da Ethereum e da Bitcoin Core Network."
+        }
+      },
+      "section5": {
+        "our_community": "NOSSO TOKEN DA COMUNIDADE",
+        "from_more_than": "De mais de 20 + tokens de comunidade disponíveis no AltHash. CDEX é um deles. Feito em março de 2019, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quis placerat enim sapien augue aliquet sempre em inteiro.",
+        "made_on_althash": "Fabricado em Althash",
+        "quick_and_eff": "Rápido e Eficiente",
+        "available_on": "Disponível em mais de 10 bolsas",
+        "explore_other_community": "EXPLORE OUTROS TOKENS DA COMUNIDADE NO ALTHASH",
+        "buy_now": "Compre Agora"
+      },
+      "section6": {
+        "heading": "Ecossistema Codex",
+        "stack":"Plataforma de fixação",
+        "subheading": "Plataformas em codex feitas para uso da comunidade.",
+        "workplace": {
+          "heading": "Codex Workplace",
+          "firstc":"CodexWorkPlace visa conectar:\n",
+          "content": "   •  Freelancers  •  Programadoras  • Codificadoras \n   • Aplicadores, engenheiros de software e blockchain \n   • Aqueles em tecnologias de IA \n   • Qualquer pessoa na indústria de tecnologias progressivas\nAo usar o ‘Codexworkplace’, os desenvolvedores podem se relacionar listando as vagas ou aceitando as vagas listadas. Isso cria um ambiente de freelancers dedicados e com a mesma mentalidade, trabalhando com um objetivo comum: criar softwares e aplicativos de alto valor para a Althash. O CDEX é usado como um desconto e token de acesso aqui.",
+          "btn1": "Vá para o local de trabalho",
+          "btn2": ""
+        },
+        "walletbot": {
+          "heading": "HRC 20 CodexWallet Bot",
+          "content": "CodexWalletBot é o primeiro aplicativo concluído e bem-sucedido executado pelo Codex no Althash. Os usuários podem usar uma carteira HTML totalmente funcional diretamente no Telegram! VIP no bot HRC20 CDEX inclui vários recursos exclusivos que permitem aos usuários experimentar todas as funcionalidades do bot. Incluindo: lançamentos aéreos VIP, registro de lançamentos aéreos, recompensas mensais aleatórias e muito mais por vir!",
+          "btn1": "Vá para CodexWallet Bot",
+          "btn2": "Saber mais"
+        },
+        "university": {
+          "heading": "Universidade Altash",
+          "content": "A Althash University é um projeto colaborativo entre a equipe Althash Core e a equipe Codex Core. Este serviço GRATUITO visa alcançar clubes de blockchain em todo o mundo para participar de uma iniciativa para se envolver em blockchain HTML e criar aplicativos usando tokens do ecossistema.",
+          "btn1": "Vá para a Universidade Althash",
+          "btn2": "Saber mais"
+        },
+        "stacking": {
+          "heading": "Plataforma de fixação CDEX",
+          "content": "O Codex forneceu uma plataforma para os usuários travarem seu CDEX e ganharem! Ao apostar no CDEX, os usuários podem acumular mais tokens a cada segundo. De acordo com a quantidade de tokens CDEX que um usuário está apostando, ele pode se qualificar para determinados níveis no programa de fidelidade. Esses níveis diferentes, 'Codex Pawn', 'Codex Knight' e 'Codex King', oferecem aos usuários um reforço de% de staking CDEX e elegibilidade de recompensa HRC20 aleatória.",
+          "btn1": "Saiba mais sobre CDEX Staking"
+        }
+      },
+      "section7": {
+        "our_journey": "Nossa jornada",
+        "subheading": "Veja o progresso de nossa comunidade",
+        "title1": "",
+        "title2": "codex roadmap 2.0",
+        "codex_roadmap1": [
+          {
+            "date": "Março de 2019",
+            "text": "Codex é criado"
+          },
+          {
+            "date": "Abril de 2019",
+            "text": "Equipe Codex é contratada"
+          },
+          {
+            "date": "Maio de 2019",
+            "text": "Lançamento do Codex Tip Bot"
+          },
+          {
+            "date": "Junho de 2019",
+            "text": "O grupo principal do HTML Coin e os grupos da comunidade começam a usar o CDEX Tip Bot"
+          },
+          {
+            "date": "Julho de 2019",
+            "text": "Lançamento da plataforma Codex Freelance Coding"
+          },
+          {
+            "date": "Agosto de 2019",
+            "text": "Ajuste fino do bot de plataforma e ponta"
+          },
+          {
+            "date": "Setembro de 2019",
+            "text": "Ecossistema de programadores usando CDEX e HTML emerge competições de programação em CDEX começam"
+          },
+          {
+            "date": "Outubro de 2019 - novembro de 2019",
+            "text": "Ajuste fino de ferramentas / competições de programação na plataforma"
+          },
+          {
+            "date": "Dezembro 2019 - dezembro 2020",
+            "text": "Criação de bots usando IA"
+          }
+        ],
+        "roadmap2": [
+          {
+            "date": "Nov - Dez 2020",
+            "text": "Atualizar o Codex Wallet Bot"
+          },
+          {
+            "date": "Janeiro a fevereiro de 2021",
+            "text": "Liberar a plataforma de trabalho do Codex WorkPlace"
+          },
+          {
+            "date": "Março a abril de 2021",
+            "text": "Build Codex Platform Utility"
+          },
+          {
+            "date": "Maio-junho de 2021",
+            "text": "Campanha de Marketing"
+          },
+          {
+            "date": "Julho a agosto de 2021",
+            "text": "Atualizar o Codex Wallet Bot"
+          },
+          {
+            "date": "Setembro a outubro de 2021",
+            "text": "Começa o desenvolvimento na plataforma Codex Forex"
+          },
+          {
+            "date": "Nov-Dez 2021",
+            "text": "Continue Codex Forex Platform Development"
+          },
+          {
+            "date": "Janeiro a junho de 2022",
+            "text": "Tour Global de Criptografia de Marketing"
+          },
+          {
+            "date": "Julho - dezembro de 2022",
+            "text": "Estabelecer Parceiros Institucionais Globais"
+          }
+        ]
+      },
+      "section8": {
+        "latest_news": "Últimas notícias",
+        "subheading": "Veja as últimas atualizações da comunidade CODEX",
+        "read_more": "Read More",
+        "title1": "The CDEXplorer is completed. A rebuilt version of the HTML explorer",
+        "title2": "Completion of the 5th Monthly Airdrop for VIPs",
+        "title3": "Graviex Lists CDEX with pairs in ETH, DOGE, & BTC ",
+        "see_all_btn": "See all news"
+      },
+      "section9": {
+        "welcome": "Bem vindo a comunidade",
+        "subheading": "Plataformas em codex feitas para uso da comunidade.",
+        "telegram": "Comunidade Telegram",
+        "instagram": "Comunidade Instagram",
+        "twitter": "Comunidade do Twitter",
+        "discord": "Comunidade Discord",
+        "htmlcoin": "Comunidade do HTML Coin Telegram",
+        "readmore": "consulte Mais informação",
+        "start_building": "Comece a construir e contribuir para a comunidade",
+        "subheading2": "Plataformas em codex feitas para uso da comunidade.",
+        "developer": "Documentos do desenvolvedor",
+        "seedoc": "Veja a Documentação"
+      },
+      "section10": {
+        "our_partner": "Nossos Parceiros"
+      }
+    },
+    "about": {
+      "section1": {
+        "powered_by": "Desenvolvido por HTML Coin",
+        "A_blockchain_support": "Um Blockchain com suporte para CODEX e muitas outras plataformas semelhantes.",
+        "subheading": "AltHash Blockchain as a Service (BaaS) empresa focada em fornecer soluções descentralizadas de razão e blockchain para governos e grandes instituições em todo o mundo."
+      },
+      "section2": {
+        "althash_is_a": "Althash é um blockchain híbrido de Prova de Trabalho / Prova de Aposta com transações híbridas rápidas e seguras de tecnologias Bitcoin e Ethereum.",
+        "card1": {
+          "heading": "Segurança do Bitcoin",
+          "content": "Aproveitando a segurança do protocolo UTXO com camadas de abstração adicionais que fornecem mais velocidade, segurança adicional"
+        },
+        "card2": {
+          "heading": "Flexibilidade de Ethereum",
+          "content": "Blockchain com a flexibilidade de máquinas virtuais com camadas de abstração adicionais que fornecem mais velocidade e funcionalidade para a rede."
+        },
+        "some_heading": "HTML Coin tem sido usado globalmente por muitos anos",
+        "card3": {
+          "heading": "Mais de 8 anos de experiência.",
+          "content": "Ao resistir ao teste do tempo, o HTML prova sua resiliência por ter sobrevivido a vários mercados em baixa e até mesmo a um ataque de 51%."
+        },
+        "card4": {
+          "heading": "Equipe True Worldwide.",
+          "content": "Profissionais qualificados de 6 continentes, com predominância de desenvolvedores baseados no Brasil e na África."
+        },
+        "fueled_by": "Alimentado por HTMLCOIN",
+        "fueled_content": "A criptomoeda que alimenta a rede, a blockchain Althash é capaz de fornecer uma plataforma rápida, eficiente e confiável para aplicativos seguros e fáceis de usar para instituições, empresas e indivíduos."
+      },
+      "section3": {
+        "activity_hours": "Horário de Atividade",
+        "token_created": "Token criado",
+        "on_althash": "em Althash",
+        "active_apps": "Apps ativos"
+      },
+      "section4": {
+        "visit_website": "Visite o site",
+        "community_token": "Tokens de comunidade feitos em Althash",
+        "subheading": "Nossa comunidade AltHash criou muitos tokens excelentes, incluindo os próprios tokens CDEX do CODEX. Explore os tokens.",
+        "news1": {
+          "title": "BUNK",
+          "content": "HTMLBunker is the first exchange in the world totally dedicated to HTMLCoin with more than 30 top pairs. HTMLBunker arose from the concept and need to contribute to the HTMLCoin community and crypto community as a whole."
+        },
+        "news2": {
+          "title": "XOLA",
+          "content": "A free-to-community project built using contract-oriented Solidity on the Althash platform. Designed to be a flexible, configurable, yet secure HRC20 Token Smart Contract with XOLA Protection Factor (Simulated Proof-of-Stake)."
+        },
+        "news3": {
+          "title": "Codex (CDEX)",
+          "content": "Codex token is used in the Codex ecosystem, primarily as an access token to VIP features on the Codex Wallet Bot."
+        }
+      }
+    },
+    "university": {
+      "section":{
+        "althash_university":"Universidade Althash",
+        "an_initiative":"Uma iniciativa da CODEX e Althash para nutrir os talentos potenciais nas tecnologias emergentes e no desenvolvimento de software.",
+        "our":"Nossa",
+        "mission":"Missão",
+        "althash_strives":"Althash se esforça para tornar esta iniciativa um ‘blockchain -movimento’ tecnológico global que atrai estudantes com experiência e experiência em codificação avançada.",
+        "some_catchy":"Some catchy heading related to University",
+        "by_interecting_with":"Ao interagir com muitos desenvolvedores que sabem como criar contratos inteligentes. Podemos aplicar suas habilidades ao HTMLCoin e criar aplicativos de alta utilidade que serão aplicáveis na vida cotidiana. Bots de gorjeta, sistemas de pagamento, programas de recompensa simbólica são exemplos de algumas das criações que os alunos podem fazer com o software de contratação inteligente HTMLCoins.",
+        "this_initiative":"Esta iniciativa terá como alvo clubes de blockchain em todo o mundo, particularmente aqueles em universidades nos Estados Unidos. O programa permitirá que os alunos participem de um programa de estágio com Althash, onde criarão contratos inteligentes usando Solidity e outras linguagens de codificação como nodejs. Os tokens HTMLCoin e CDEX presenteados serão dados a esses clubes para auxiliar na criação de aplicativos de alta utilidade. Esta iniciativa expandirá os horizontes para a carreira de desenvolvimento de cada aluno, bem como promoverá ainda mais sua compreensão do software emergente no espaço do blockchain.",
+        "register_now":"Registrar agora",
+        "how_this_work":"Como isso funciona",
+        "card1":"Registre seu clube / organização para",
+        "card1.2":"Programa da Universidade Althash",
+        "card2":"Althash fornecerá os sócios do seu clube para estágio",
+        "card3":"Os estagiários podem contribuir e aprender enquanto constroem no Althash",
+        "card4":"Após a conclusão, os estagiários receberão o certificado $ Althash University e classificação",
+        "card5":"Os melhores desempenhos terão a oportunidade de trabalhar como funcionários na Atlas Community",
+        "step":"Etapa #",
+        "upon_completion":"Após a conclusão do programa, os alunos receberão um Certificado do curso e uma 'classificação' da iniciativa Atlas.",
+        "highly_qualified":"Alunos altamente qualificados também serão reconhecidos pelos administradores do programa e terão uma oferta de emprego na Althash para criar aplicativos relacionados no futuro."
+      },
+      "section2":{
+        "register_headline":"Register your organization for Althash University Program",
+        "subheading":"A community that believes in innovation",
+        "first_name":"First Name",
+        "place_first":"Enter your First Name",
+        "last_name":"Last Name",
+        "place_last":"Enter your Last Name",
+        "your_org":"Your Organization",
+        "place_org":"Enter your Organization Name",
+        "members":"No of Member",
+        "phone_no":"Phone number",
+        "place_phone":"Please mention your contact number",
+        "email":"Your Email",
+        "place_email":"Please enter your email",
+        "message":"Message for us",
+        "place_message":"Please mention anything that you would want us know",
+        "submit":"Submit the form"
+      }
+    },
+    "news": {
+      "section1":{
+        "codex_news":"Codex Notícia",
+        "latest_news":"Últimas notícias da Comunidade Codex!"
+      },
+      "section2":{
+        "latest_news":"Últimas notícias",
+        "learn_more":"Saber mais"
+      }
+    },
+    "walletbot": {
+      "section1":{
+        "codex_wallet_bot":"Codex Wallet Bot",
+        "a_tip_bot":"Um bot de dicas no Telegram que está conectado ao blockchain HTMLCoin, que permite aos usuários ter a capacidade de verificar seu saldo, endereço público e chave privada",
+        "become_vip_member":"Torne-se membro VIP de",
+        "get_full":"Obtenha funcionalidade completa, airdrops semanais e mensais, associação vitalícia e muito mais.",
+        "learn_more":"Saber mais"
+      },
+      "section2":{
+        "first_product":"O Codex Wallet Bot foi nosso primeiro produto.",
+        "the_inspiration":"A inspiração por trás do 'CodexWalletBot' veio da replicação de ecossistemas saudáveis de outras cadeias de blocos existentes no espaço criptográfico. Bots de dicas como Seedit, Robominer e Parjar demonstraram o sucesso de trazer usuários para o espaço do blockchain via mídia social. Ao apresentar aos usuários uma interface simples para enviar e receber tokens HRC20, torna o envio e recebimento de transações mais amigável.",
+        "what_you_can":"O que você pode fazer com nosso bot",
+        "card1":"Incluindo tokens 'HTMLCoin' e HRC20",
+        "card2":"Enviando tokens da Carteira para a Carteira",
+        "card3":"Taxas de transação neglagíveis",
+        "card4":"Verifique o saldo, endereço público e chave privada",
+        "card5":"Troca de carteiras",
+        "btn_use":"Comece a usar o bot"
+      },
+      "section3":{
+        "become_a_vip":"Torne-se um VIP",
+        "subheading":"Torne-se um VIP e obtenha todas as funcionalidades do nosso bot, incluindo associação vitalícia, airdrops diários, airdrops mensais, airdrops log, lista com desconto e muitos outros desenvolvimentos futuros.",
+        "hold":"Torne-se um VIP, se você mantiver",
+        "you_can":"Você também pode obter",
+        "cdex_token":"se você tiver 100 mil tokens CDEX",
+        "50%":"50%",
+        "disclaimer":"Isenção de responsabilidade",
+        "the_monthly_airdrops":"Os lançamentos aéreos mensais e diários não pretendem ser um pagamento por ser um VIP, mas sim uma distribuição gratuita e um presente para os VIPs usarem o software, bem como futuras compilações do Codex. Nem lançamentos aéreos diários nem mensais são garantidos",
+        "get_a_discount":"Ganhe desconto"
+  
+      }
+    },
+    "footer": {
+      "subheading": "Trazendo os desenvolvedores da nova geração para mais perto de construir uma comunidade de inovação na área de blockchain e desenvolvimento de software",
+      "company": {
+        "title": "Empresa",
+        "home": "Casa",
+        "white_paper": "Papel branco",
+        "roadmap": "Roteiro",
+        "news": "Notícia",
+        "careers": "Carreiras"
+      },
+      "community": {
+        "title": "Comunidade",
+        "room": "HRC20 Quarto RAIN",
+        "telegram": "Telegram",
+        "mamby": "Mamby",
+        "discord": "Discord",
+        "floyx": "Floyx",
+        "sapien": "Sapien Network"
+      },
+      "support": {
+        "title": "Apoio, suporte",
+        "faq": "Perguntas frequentes",
+        "investment_policy": "Política de Investimento",
+        "terms_of_Use": "Termos de uso",
+        "disclamer": "Isenção de responsabilidade",
+        "privacy_policy": "Política de Privacidade",
+        "legal_opinion": "Opinião legal",
+        "wallets": "Carteiras",
+        "security_best_practices": "Melhores práticas de segurança"
+      },
+      "connect": {
+        "title": "Conecte-se conosco",
+        "findus": "Find us on",
+        "linkedin": "Linkedin",
+        "twitter": "Twitter",
+        "medium": "Medium",
+        "steemit": "Steemit",
+        "contactus": "Contate-Nos",
+        "dev": "Dev@codexonalthash.com",
+        "bblog": "bbalog@htmlcoin.team"
+      }
+    },
+    "navbar": {
+      "ecosystem": "Ecossistema Codex",
+      "community": "Comunidade",
+      "about": "Cerca de",
+      "news": "Notícia",
+      "dropdown1": {
+        "item1": "Codex Workplace",
+        "item2": "Codex Wallet Bot",
+        "item3": "Altash University"
+      },
+      "dropdown2": {
+        "item1": "Comunidade Telegram",
+        "item2": "Comunidade Instagram",
+        "item3": "Comunidade do Twitter",
+        "item4": "Comunidade Discord",
+        "item5": "HTML Coin Telegram"
+      }
+    },
+    "faq":{
+      "codex_faq":"Codex FAQ",
+      "version":"Data da Versão",
+      "if_you_cant":"Se você não encontrar uma resposta para suas perguntas abaixo, entre em contato com o Suporte ao Cliente no telegrama:",
+      "to_learn_more":"Para saber mais sobre o Codex, consulte nossa página principal.",
+      "ques1":{
+        "q":"O que é Codex em Althash?",
+        "ans":"Codex on Althash é uma empresa de software como serviço (SaaS) especializada em soluções e serviços de blockchain. É também um ecossistema descentralizado de desenvolvedores autônomos que criam aplicativos em blockchain HTMLCoin. Alguns serviços existentes são: um fórum para discussão, um índice para Althash API, uma plataforma para codificadores autônomos e um 'bot de dicas' que pode enviar um HTMLCoin e tokens. O ecossistema Codex cria valor criando aplicativos blockchain úteis que são usados diariamente usando o token de utilitário 'CDEX', que usa HTMLCoin como seu gás."
+      },
+      "ques2":{
+        "q":"Qual é o site oficial do Codex?",
+        "ans":""
+      },
+      "ques3":{
+        "q":"O que é HTMLCoin?",
+        "ans":"HTMLCoin não é apenas uma criptomoeda, mas um novo blockchain seguro baseado em uma base de código cliente cpp Bitcoin Core e Ethereum totalmente integrada, para fornecer Contratos Inteligentes e Aplicativos Distribuídos (DAPPS). Ele implementa um design extensível que é capaz de adicionar mais máquinas virtuais (VM), habilitado através de uma camada de abstração de conta, que permite que uma VM baseada em conta funcione em um Blockchain baseado em Bitcoin UTXO. Ele tem a força do Bitcoin e os recursos do Ethereum em uma plataforma.",
+        "ans2":"Althash é SaaS (Software as a Service)."
+      },
+      "ques4":{
+        "q":"Qual é a missão do Codex?",
+        "ans":"A missão do Codex é construir continuamente um ecossistema de programadores e desenvolvedores em Althash com foco na construção de valor por meio da utilidade em aplicativos. Ao integrar muitos freelancers qualificados, o Codex é capaz de apresentá-los ao software HTMLCoin, bem como promover avanços nos aplicativos do Codex no Althash.",
+        "ans2":"Valor por meio da utilidade, não por especulação de preço."
+      },
+      "ques5":{
+        "q":"O que é único no Codex?",
+        "ans":"O Codex encontra valor por meio da utilidade, não por meio de especulação ou valor futuro implícito de tokens negociáveis. A missão do Codex é mantida através da criação de um ecossistema de desenvolvedores focado em um objetivo comum de desenvolvimento de software."
+      },
+      "ques6":{
+        "q":"Quem é a equipe por trás do Codex?",
+        "ans":"A equipe é formada por desenvolvedores e freelancers em todo o mundo. Com programadores no Vietnã, Alemanha, EUA, Brasil e Austrália, a equipe é capaz de atingir as massas globais."
+      },
+      "ques7":{
+        "q":"O que é token 'CDEX'?",
+        "ans":"O token 'CDEX' é um token utilitário no HTMLCoin usado no ecossistema Codex."
+      },
+      "ques8":{
+        "q":"'CDEX' é um ICO?",
+        "ans":"'CDEX' não é um ICO, ele foi distribuído GRATUITAMENTE aos membros da comunidade nas primeiras semanas do token."
+      },
+      "ques9":{
+        "q":"'CDEX' é um token listado?",
+        "ans":"'CDEX' está listado em"
+      },
+      "ques10":{
+        "q":"O que posso fazer com o token de utilitário 'CDEX'?",
+        "ans":"Você é capaz de interagir no ecossistema Codex e também em outros aplicativos usando HTMLCoin. Os casos de uso incluem: token de associação e token de acesso a diferentes aplicativos da comunidade."
+      },
+      "ques11":{
+        "q":"Qual é o fornecimento total de 'CDEX'?",
+        "ans":"Fornecimento: 60.000.000.000 (60 bilhões) (decimais: 8); Nome: Codex; Símbolo: CDEX"
+      },
+      "ques12":{
+        "q":"O que é o plano de distribuição de token para 'CDEX'",
+        "ans":"Fornecimento total: 60.000.000.000 CDEX (60 bilhões CDEX)",
+        "ans2":"10% → Airdrops no bot",
+        "ans3":"25% → Equipe",
+        "ans4":"51% → Comunicações Comerciais e Relações Públicas",
+        "ans5":"14% → Ganhos por meio de aplicativos atuais e futuros"
+      },
+      "ques13":{
+        "q":"Onde posso negociar tokens CDEX?",
+        "ans":"HTMLBunker Exchange"
+      },
+      "ques14":{
+        "q":"Onde posso ver as transações 'CDEX'?",
+        "ans":"Explorador oficial do CDEX:"
+      },
+      "ques15":{
+        "q":"O que acontece se uma chave privada for perdida ou perdida?",
+        "ans":"Infelizmente, não há como recuperar sua chave privada se você não a restaurou. É altamente recomendável que o backup de sua chave privada seja feito em um local familiar, onde só possa ser acessado pelo usuário."
+      },
+      "ques16":{
+        "q":"Qual é o logotipo do Codex no Althash e o logotipo do token 'CDEX'",
+        "ans":"Logotipo da Codex:",
+        "ans2":"Logotipo do token 'CDEX':"
+      },
+      "ques17":{
+        "q":"O que é o bot HRC20 'CDEX'?",
+        "ans":"O 'Codex Wallet Bot' é um bot de dicas executado pela comunidade no Telegram que está conectado ao blockchain HTMLCoin. O bot permite que os usuários tenham a capacidade de verificar seu saldo, endereço público e verificar a chave privada.",
+        "ans2":"Para ler mais visite:"
+      },
+      "ques18":{
+        "q":"Tenho que criptografar minha carteira de desktop?",
+        "ans":"Não, você não precisa, mas é altamente recomendável criptografar sua carteira. Se alguém puder acessar seu arquivo wallet.dat não criptografado, poderá roubar sua moeda."
+      },
+      "ques19":{
+        "q":"Preciso fazer backup da carteira da área de trabalho?",
+        "ans":"Sim, é muito importante fazer backup de sua carteira com frequência e salvar os arquivos de backup em vários locais. E também é importante fazer vários arquivos de backup."
+      },
+      "ques20":{
+        "q":"Posso abrir meu mesmo wallet.dat em vários locais?",
+        "ans":"Não é recomendado porque pode causar alguns problemas."
+      },
+      "ques21":{
+        "q":"Como restaurar wallet.dat para desktop wallet?",
+        "ans":"Feche o software da carteira",
+        "ans2":"Você deve descobrir onde seu wallet.dat está localizado.",
+        "ans3":"Para janelas: geralmente está abaixo",
+        "ans4":"Para Mac: geralmente é inferior",
+        "ans5":"Renomeie seu wallet.dat atual para algo como",
+        "ans6":"Copie o arquivo de dados da carteira de backup para onde o wallet-original.dat está.",
+        "ans7":"NÃO MOVA o arquivo de backup. Certifique-se de copiar e colar.",
+        "ans8":"Renomeie seu arquivo de backup de dados de carteira para",
+        "ans9":"Inicie o software da carteira."
+      }
+    }
+  }

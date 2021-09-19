@@ -240,44 +240,210 @@
     }
   },
   "university": {
-    "section": {
-      "althash_university": "알타시 대학교",
-      "an_initiative": "CODEX와 Althash의 이니셔티브는 신흥 기술 및 소프트웨어 개발의 잠재적인 인재를 육성합니다.",
-      "our": "우리의",
-      "mission": "사명",
-      "althash_strives": "Althash는 이 이니셔티브를 고급 코딩 전문 지식과 배경을 가진 학생들을 끌어들이는 글로벌 기술 '블록체인 운동'으로 만들기 위해 노력합니다.",
-      "some_catchy": "Some catchy heading related to University",
-      "by_interecting_with": "스마트 계약을 만드는 방법을 알고 있는 많은 개발자와 상호 작용합니다. 우리는 그들의 기술을 HTMLCoin에 적용하고 일상 생활에 적용할 수 있는 높은 유틸리티 응용 프로그램을 만들 수 있습니다. 팁 봇, 지불 시스템, 토큰 보상 프로그램은 모두 학생들이 HTMLCoins 스마트 계약 소프트웨어로 만들 수 있는 일부 창작물의 예입니다.",
-      "this_initiative": "이 이니셔티브는 전 세계의 블록체인 클럽, 특히 미국 대학의 클럽을 대상으로 합니다. 이 프로그램을 통해 학생들은 Althash와 함께 인턴십과 같은 프로그램에 참여할 수 있으며 여기서 Solidity 및 nodejs와 같은 기타 코딩 언어를 사용하여 스마트 계약을 생성할 수 있습니다. 선물받은 HTMLCoin과 CDEX 토큰은 이러한 클럽에 제공되어 활용도가 높은 응용 프로그램을 만드는 데 도움이 됩니다. 이 이니셔티브는 각 학생의 개발 경력에 대한 지평을 넓힐 뿐만 아니라 블록체인 공간에서 새로운 소프트웨어에 대한 이해를 증진할 것입니다.",
-      "register_now": "지금 등록하세요",
-      "how_this_work": "작동 방식",
-      "card1": "귀하의 클럽/조직을 등록하십시오.",
-      "card1.2": "알타쉬 대학교 프로그램",
-      "card2": "Althash는 인턴십을 위해 클럽 회원에게 제공합니다.",
-      "card3": "인턴은 Althash를 기반으로 하는 동안 기여하고 배울 수 있습니다.",
-      "card4": "수료 후 인턴은 인증서 $ Althash University 및 순위를 받게됩니다.",
-      "card5": "최고 성과자는 Atlas Community에서 직원으로 일할 수 있는 기회를 얻습니다.",
-      "step": "Step #",
-      "upon_completion": "프로그램이 완료되면 학생들은 과정 수료증과 Atlas 이니셔티브 '순위'를 받게 됩니다.",
-      "highly_qualified": "우수한 자격을 갖춘 학생들은 또한 프로그램 관리자로부터 인정을 받을 것이며 향후 관련 응용 프로그램을 만들 수 있도록 Althash에 고용될 것입니다."
+    "section":{
+      "althash_university":"알타시 대학교",
+      "an_initiative":"CODEX와 Althash의 이니셔티브는 신흥 기술 및 소프트웨어 개발의 잠재적인 인재를 육성합니다.",
+      "our":"우리의",
+      "mission":"사명",
+      "althash_strives":"Althash는 이 이니셔티브를 고급 코딩 전문 지식과 배경을 가진 학생들을 끌어들이는 글로벌 기술 '블록체인 운동'으로 만들기 위해 노력합니다.",
+      "some_catchy":"Some catchy heading related to University",
+      "by_interecting_with":"스마트 계약을 만드는 방법을 알고 있는 많은 개발자와 상호 작용합니다. 우리는 그들의 기술을 HTMLCoin에 적용하고 일상 생활에 적용할 수 있는 높은 유틸리티 응용 프로그램을 만들 수 있습니다. 팁 봇, 지불 시스템, 토큰 보상 프로그램은 모두 학생들이 HTMLCoins 스마트 계약 소프트웨어로 만들 수 있는 일부 창작물의 예입니다.",
+      "this_initiative":"이 이니셔티브는 전 세계의 블록체인 클럽, 특히 미국 대학의 클럽을 대상으로 합니다. 이 프로그램을 통해 학생들은 Althash와 함께 인턴십과 같은 프로그램에 참여할 수 있으며 여기서 Solidity 및 nodejs와 같은 기타 코딩 언어를 사용하여 스마트 계약을 생성할 수 있습니다. 선물받은 HTMLCoin과 CDEX 토큰은 이러한 클럽에 제공되어 활용도가 높은 응용 프로그램을 만드는 데 도움이 됩니다. 이 이니셔티브는 각 학생의 개발 경력에 대한 지평을 넓힐 뿐만 아니라 블록체인 공간에서 새로운 소프트웨어에 대한 이해를 증진할 것입니다.",
+      "register_now":"지금 등록하세요",
+      "how_this_work":"작동 방식",
+      "card1":"귀하의 클럽/조직을 등록하십시오.",
+      "card1.2":"알타쉬 대학교 프로그램",
+      "card2":"Althash는 인턴십을 위해 클럽 회원에게 제공합니다.",
+      "card3":"인턴은 Althash를 기반으로 하는 동안 기여하고 배울 수 있습니다.",
+      "card4":"수료 후 인턴은 인증서 $ Althash University 및 순위를 받게됩니다.",
+      "card5":"최고 성과자는 Atlas Community에서 직원으로 일할 수 있는 기회를 얻습니다.",
+      "step":"Step #",
+      "upon_completion":"프로그램이 완료되면 학생들은 과정 수료증과 Atlas 이니셔티브 '순위'를 받게 됩니다.",
+      "highly_qualified":"우수한 자격을 갖춘 학생들은 또한 프로그램 관리자로부터 인정을 받을 것이며 향후 관련 응용 프로그램을 만들 수 있도록 Althash에 고용될 것입니다."
     },
-    "section2": {
-      "register_headline": "Althash University Program에 조직 등록",
-      "subheading": "혁신을 믿는 커뮤니티",
-      "first_name": "이름",
-      "place_first": "이름을 입력하세요",
-      "last_name": "성",
-      "place_last": "성을 입력하십시오",
-      "your_org": "조직",
-      "place_org": "조직 이름을 입력하세요.",
-      "members": "회원 수",
-      "phone_no": "전화 번호",
-      "place_phone": "연락처를 알려주세요",
-      "email": "귀하의 이메일",
-      "place_email": "이메일을 입력하세요",
-      "message": "우리를 위한 메시지",
-      "place_message": "저희에게 알려주셨으면 하는 사항을 언급해주세요",
-      "submit": "양식 제출"
+    "section2":{
+      "register_headline":"Althash University Program에 조직 등록",
+      "subheading":"혁신을 믿는 커뮤니티",
+      "first_name":"이름",
+      "place_first":"이름을 입력하세요",
+      "last_name":"성",
+      "place_last":"성을 입력하십시오",
+      "your_org":"조직",
+      "place_org":"조직 이름을 입력하세요.",
+      "members":"회원 수",
+      "phone_no":"전화 번호",
+      "place_phone":"연락처를 알려주세요",
+      "email":"귀하의 이메일",
+      "place_email":"이메일을 입력하세요",
+      "message":"우리를 위한 메시지",
+      "place_message":"저희에게 알려주셨으면 하는 사항을 언급해주세요",
+      "submit":"양식 제출"
+    }
+  },
+  "footer": {
+    "subheading": "블록체인 및 소프트웨어 개발 분야의 혁신 커뮤니티를 구축하기 위해 차세대 개발자를 더 가깝게 만듭니다.",
+    "company": {
+      "title": "회사",
+      "home": "집",
+      "white_paper": "백지",
+      "roadmap": "로드맵",
+      "news": "소식",
+      "careers": "직업"
+    },
+    "community": {
+      "title": "지역 사회",
+      "room": "HRC20 레인 룸",
+      "telegram": "전보",
+      "mamby": "맘비",
+      "discord": "불화",
+      "floyx": "플릭스",
+      "sapien": "사피엔 네트워크"
+    },
+    "support": {
+      "title": "지원하다",
+      "faq": "자주하는 질문",
+      "investment_policy": "투자 정책",
+      "terms_of_Use": "이용약관",
+      "disclamer": "면책 조항",
+      "privacy_policy": "개인 정보 정책",
+      "legal_opinion": "법률 의견",
+      "wallets": "지갑",
+      "security_best_practices": "보안 모범 사례"
+    },
+    "connect": {
+      "title": "우리와 접촉",
+      "findus": "에서 찾아주세요",
+      "linkedin": "링크드인",
+      "twitter": "트위터",
+      "medium": "중간",
+      "steemit": "스팀잇",
+      "contactus": "문의하기",
+      "dev": "Dev@codexonalthash.com",
+      "bblog": "bbalog@htmlcoin.team"
+    }
+  },
+  "navbar": {
+    "ecosystem": "코덱스 생태계",
+    "community": "지역 사회",
+    "about": "에 대한",
+    "news": "소식",
+    "dropdown1": {
+      "item1": "코덱스 작업장",
+      "item2": "코덱스 지갑 봇",
+      "item3": "알타쉬 대학교"
+    },
+    "dropdown2": {
+      "item1": "텔레그램 커뮤니티",
+      "item2": "인스타그램 커뮤니티",
+      "item3": "트위터 커뮤니티",
+      "item4": "디스코드 커뮤니티",
+      "item5": "HTML 코인 텔레그램"
+    }
+  },
+  "faq":{
+    "codex_faq":"Codex FAQ",
+    "version":"버전 날짜",
+    "if_you_cant":"아래 질문에 대한 답변을 찾을 수 없으면 텔레그램으로 고객 지원에 문의하십시오.",
+    "to_learn_more":"Codex에 대한 자세한 내용은 당사의 메인 페이지를 참조하십시오.",
+    "ques1":{
+      "q":"Althash의 코덱스는 무엇입니까?",
+      "ans":"Codex on Althash는 블록체인 솔루션 및 서비스를 전문으로 하는 SaaS(Software as a Service) 회사입니다. 또한 HTMLCoin 블록체인에서 애플리케이션을 만드는 프리랜스 개발자의 분산형 생태계입니다. 기존 서비스로는 토론 포럼, Althash API 색인, 프리랜스 코더를 위한 플랫폼, HTMLCoin 및 토큰 수신을 보낼 수 있는 '팁 봇'이 있습니다. Codex 생태계는 HTMLCoin을 가스로 사용하는 'CDEX' 유틸리티 토큰을 사용하여 일상적으로 사용되는 유용한 블록체인 애플리케이션을 만들어 가치를 창출합니다."
+    },
+    "ques2":{
+      "q":"코덱스 공식 웹사이트는 무엇입니까?",
+      "ans":""
+    },
+    "ques3":{
+      "q":"HTMLCoin이란 무엇입니까?",
+      "ans":"HTMLCoin은 단순한 암호화폐가 아니라 완전히 통합된 Bitcoin Core 및 Ethereum cpp 클라이언트 코드베이스를 기반으로 하는 새로운 보안 블록체인으로 스마트 계약 및 분산 애플리케이션(DAPPS)을 제공합니다. 계정 기반 VM이 Bitcoin UTXO 기반 블록체인에서 작동할 수 있도록 하는 계정 추상화 계층을 통해 활성화된 가상 머신(VM)을 더 추가할 수 있는 확장 가능한 디자인을 구현합니다. 하나의 플랫폼에서 비트코인의 강점과 이더리움의 기능을 모두 가지고 있습니다.",
+      "ans2":"Althash는 SaaS(Software as a Service)입니다."
+    },
+    "ques4":{
+      "q":"코덱스의 사명은 무엇입니까?",
+      "ans":"Codex의 사명은 응용 프로그램의 유틸리티를 통해 가치를 구축하는 데 중점을 두고 Althash에서 프로그래머와 개발자의 생태계를 지속적으로 구축하는 것입니다. 많은 숙련된 프리랜서를 온보딩함으로써 Codex는 HTMLCoin 소프트웨어를 소개하고 Althash의 Codex에 대한 응용 프로그램 발전을 촉진할 수 있습니다.",
+      "ans2":"Value through utility not speculation on price."
+    },
+    "ques5":{
+      "q":"코덱스만의 특별한 점은 무엇입니까?",
+      "ans":"Codex는 거래 가능한 토큰의 투기나 암시된 미래 가치가 아닌 유틸리티를 통해 가치를 찾습니다. Codex 미션은 소프트웨어 개발이라는 공통의 목표에 초점을 맞춘 개발자 생태계를 만들어 유지됩니다."
+    },
+    "ques6":{
+      "q":"Codex 뒤에 있는 팀은 누구입니까?",
+      "ans":"팀은 전 세계의 개발자와 프리랜서로 구성되어 있습니다. 베트남, 독일, 미국, 브라질 및 호주의 프로그래머와 함께 팀은 전 세계 대중에게 다가갈 수 있습니다."
+    },
+    "ques7":{
+      "q":"'CDEX' 토큰이란?",
+      "ans":"'CDEX' 토큰은 Codex 생태계에서 사용되는 HTMLCoin의 유틸리티 토큰입니다."
+    },
+    "ques8":{
+      "q":"'CDEX'는 ICO인가요?",
+      "ans":"'CDEX'는 ICO가 아니며 토큰 초기 몇 주 동안 커뮤니티 구성원에게 무료로 배포되었습니다."
+    },
+    "ques9":{
+      "q":"'CDEX'가 상장된 토큰인가요?",
+      "ans":"'CDEX' 상장"
+    },
+    "ques10":{
+      "q":"'CDEX' 유틸리티 토큰으로 무엇을 할 수 있습니까?",
+      "ans":"HTMLCoin을 사용하여 Codex 생태계와 다른 응용 프로그램에서 상호 작용할 수 있습니다. 사용 사례에는 멤버십 토큰 및 다양한 커뮤니티 애플리케이션에 대한 액세스 토큰이 포함됩니다."
+    },
+    "ques11":{
+      "q":"총 'CDEX' 공급량은 얼마입니까?",
+      "ans":"공급: 60,000,000,000(600억)(소수: 8); 이름: 코덱스; 기호: CDEX"
+    },
+    "ques12":{
+      "q":"'CDEX' 토큰 분배 계획이란?",
+      "ans":"총 공급량: 60,000,000,000CDEX(600억CDEX)",
+      "ans2":"10% → 봇에 에어드랍",
+      "ans3":"25% → 팀",
+      "ans4":"51% → 비즈니스 커뮤니케이션 및 홍보",
+      "ans5":"14% → 현재 및 미래 앱을 통해 획득"
+    },
+    "ques13":{
+      "q":"어디에서 CDEX 토큰을 거래할 수 있습니까?",
+      "ans":"HTML벙커 거래소"
+    },
+    "ques14":{
+      "q":"'CDEX' 거래는 어디에서 볼 수 있나요?",
+      "ans":"공식 CDEX 익스플로러:"
+    },
+    "ques15":{
+      "q":"개인 키를 잘못 배치하거나 분실하면 어떻게 됩니까?",
+      "ans":"불행히도 개인 키를 복원하지 않은 경우 복구할 방법이 없습니다. 개인 키는 사용자만 액세스할 수 있는 친숙한 장소에 백업하는 것이 좋습니다."
+    },
+    "ques16":{
+      "q":"Codex on Althash 로고와 'CDEX' 토큰 로고는 무엇입니까?",
+      "ans":"코덱스 로고:",
+      "ans2":"'CDEX' 토큰 로고:"
+    },
+    "ques17":{
+      "q":"HRC20 'CDEX' 봇이란?",
+      "ans":"'코덱스 지갑 봇'은 HTMLCoin 블록체인에 연결된 텔레그램의 커뮤니티 운영 팁 봇입니다. 봇을 통해 사용자는 잔액, 공개 주소 및 개인 키를 확인할 수 있습니다.",
+      "ans2":"자세한 내용을 보려면 다음을 방문하십시오."
+    },
+    "ques18":{
+      "q":"내 데스크탑 지갑을 암호화해야 합니까?",
+      "ans":"필요는 없지만 지갑을 암호화하는 것이 좋습니다. 누군가가 암호화되지 않은 wallet.dat 파일에 액세스할 수 있으면 코인을 훔칠 수 있습니다."
+    },
+    "ques19":{
+      "q":"데스크탑 지갑을 백업해야 하나요?",
+      "ans":"네, 지갑을 자주 백업하고 백업 파일을 여러 위치에 저장하는 것이 매우 중요합니다. 또한 백업 파일을 여러 개 만드는 것도 중요합니다."
+    },
+    "ques20":{
+      "q":"동일한 wallet.dat를 여러 위치에서 열 수 있습니까?",
+      "ans":"일부 문제가 발생할 수 있으므로 권장하지 않습니다."
+    },
+    "ques21":{
+      "q":"데스크탑 지갑의 wallet.dat를 복원하는 방법은 무엇입니까?",
+      "ans":"지갑 소프트웨어 닫기",
+      "ans2":"wallet.dat의 위치를 찾아야 합니다.",
+      "ans3":"Windows의 경우: 일반적으로 아래에 있습니다.",
+      "ans4":"Mac의 경우: 일반적으로 다음 아래에 있습니다.",
+      "ans5":"현재 wallet.dat의 이름을 다음과 같이 변경합니다.",
+      "ans6":"wallet-original.dat가 있는 위치에 백업 지갑 데이터 파일을 복사합니다.",
+      "ans7":"백업한 파일을 이동하지 마십시오. 반드시 복사해서 붙여넣기 하세요.",
+      "ans8":"백업 지갑 데이터 파일의 이름을 다음으로 변경하십시오.",
+      "ans9":"지갑 소프트웨어를 시작하십시오."
     }
   }
 }

@@ -19,20 +19,20 @@
     <div class="container">
       <h2 class="heading_2">{{'news.section2.latest_news' | translate}}</h2>
       
-        <div class="col-sm-8 bg-white p-shadow p-round p-4 my-4">
+        <div class="col-sm-8 bg-white p-shadow p-round p-4 my-4" *ngFor="let item of news">
             <div class="row ">
               <div class="col-md-4">
-                <img alt="image" class="img-fluid p-round news_img w-100" src="assets/Images/news/news1.png">
+                <img alt="image" class="img-fluid p-round news_img w-100" [src]="item.image">
               </div>
               <div class="col-md-8 px-3" >
                 <div class="row h-100">
                     <div class="col-12 align-self-start">
-                        <h5><strong>The CDEXplorer is completed. A rebuilt version of the HTML explorer</strong></h5>
+                        <h5><strong>{{item.title}}</strong></h5>
                     </div>
                     <div class="col align-self-end">
                         <div class="row align-items-end">
                             <div class="col-6">
-                             <p class="fw-bold p-primary-dark m-0">24 March 2021</p>
+                             <p class="fw-bold p-primary-dark m-0">{{item.dateAdded}}</p>
                             </div>
                             <div class="col-6 text-end">
                                 <button class="btn btn-dark btn-sm btn-shd">{{'news.section2.learn_more' | translate}}</button>
