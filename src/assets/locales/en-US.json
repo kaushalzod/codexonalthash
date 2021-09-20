@@ -73,10 +73,9 @@
         "btn1": "Go to CodexWallet Bot",
         "btn2": "Learn More"
       },
-      "university": {
-        "heading": "Altash University",
-        "content": "Althash University is a collaborative project between the Althash Core team and the Codex Core team. This FREE service aims to reach out to blockchain clubs across the world to partake in an initiative to engage in HTML blockchain and create apps using tokens from the ecosystem.",
-        "btn1": "Go to Althash University",
+      "explorer": {
+        "heading": "HTML Explorer",
+        "content": "Codex provides a blockchain explorer for users to view all transactions that have taken place on the HTML blockchain, the current network hash rate and transaction growth, and the activity on blockchain addresses, among other useful information.",
         "btn2": "Learn More"
       },
       "stacking": {
