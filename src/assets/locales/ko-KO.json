@@ -340,6 +340,78 @@
       "item5": "HTML 코인 텔레그램"
     }
   },
+  "news": {
+    "section1":{
+      "codex_news":"코덱스 뉴스",
+      "latest_news":"코덱스 커뮤니티의 최신 소식!"
+    },
+    "section2":{
+      "latest_news":"최근 뉴스",
+      "learn_more":"더 알아보기"
+    },
+    "allNews": [
+      {
+        "title": "CDEXplorer가 완료되었습니다. HTML 탐색기의 재구성된 버전",
+        "dateAdded": "2020년 6월 2일"
+      },
+      {
+        "title": "Graviex, ETH, DOGE 및 BTC 쌍으로 CDEX 상장",
+        "dateAdded": "2020년 4월 2일"
+      },
+      {
+        "title": "VIP를 위한 5차 월간 에어드랍 완료",
+        "dateAdded": "2020년 3월 31일"
+      },
+      {
+        "title": "VIP를 위한 4차 월간 에어드랍 완료",
+        "dateAdded": "2020년 2월 27일"
+      },
+      {
+        "title": "VIP를 위한 3차 월간 에어드랍 완료",
+        "dateAdded": "2020년 1월 30일"
+      },
+      {
+        "title": "STEX 암호화폐 거래소에 'CDEX' 토큰 상장",
+        "dateAdded": "2020년 1월 25일"
+      },
+      {
+        "title": "매월 첫째주 목요일 CodexWalletBot 업데이트!",
+        "dateAdded": "2020년 1월 1일"
+      },
+      {
+        "title": "2019년 HTMLCoin의 이정표",
+        "dateAdded": "2020년 1월 1일"
+      },
+      {
+        "title": "VIP를 위한 두 번째 월간 에어드랍 완료",
+        "dateAdded": "2019년 12월 28일"
+      },
+      {
+        "title": "CodexWalletBot에서 VIP를 위한 'CDEX' 월간 에어드랍 출시",
+        "dateAdded": "2019년 11월 29일"
+      },
+      {
+        "title": "'CDEX' 코인마켓캡 상장",
+        "dateAdded": "2019년 10월 17일"
+      },
+      {
+        "title": "코덱스 공식 웹사이트에 알타시 대학교 추가",
+        "dateAdded": "2019년 10월 1일"
+      },
+      {
+        "title": "코덱스 프리랜스 포럼 출시",
+        "dateAdded": "2019년 9월 15일"
+      },
+      {
+        "title": "'CodexWalletBot'은 Althash 커뮤니티에 채택되어 350명의 사용자를 달성했습니다.",
+        "dateAdded": "2019년 6월 22일"
+      },
+      {
+        "title": "백서 및 로드맵 완료",
+        "dateAdded": "2019년 5월 20일"
+      }
+    ]
+  },
   "faq":{
     "codex_faq":"Codex FAQ",
     "version":"버전 날짜",

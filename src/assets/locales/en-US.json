@@ -294,7 +294,69 @@
     "section2":{
       "latest_news":"Latest News",
       "learn_more":"Learn More"
-    }
+    },
+    "allNews": [
+      {
+        "title": "The CDEXplorer is completed. A rebuilt version of the HTML explorer",
+        "dateAdded": "June 2, 2020"
+      },
+      {
+        "title": "Graviex Lists CDEX with pairs in ETH, DOGE, & BTC",
+        "dateAdded": "April 2, 2020"
+      },
+      {
+        "title": "Completion of the 5th Monthly Airdrop for VIPs",
+        "dateAdded": "Mar 31, 2020"
+      },
+      {
+        "title": "Completion of the 4th Monthly Airdrop for VIPs",
+        "dateAdded": "Feb 27, 2020"
+      },
+      {
+        "title": "Completion of the 3rd Monthly Airdrop for VIPs",
+        "dateAdded": "Jan. 30, 2020"
+      },
+      {
+        "title": "'CDEX' Token gets Listed on STEX Cryptocurrency Exchange​",
+        "dateAdded": "Jan 25, 2020"
+      },
+      {
+        "title": "Monthly CodexWalletBot Updates on the 1st Thursday of each month!​",
+        "dateAdded": "Jan 1, 2020"
+      },
+      {
+        "title": "Milestones for HTMLCoin in 2019",
+        "dateAdded": "Jan 1, 2020"
+      },
+      {
+        "title": "Completion of Second Ever Monthly Airdrop for VIPs",
+        "dateAdded": "Dec 28, 2019"
+      },
+      {
+        "title": "Release of 'CDEX' Monthly Airdrops for VIPs on the CodexWalletBot",
+        "dateAdded": "Nov 29, 2019"
+      },
+      {
+        "title": "'CDEX' gets listed on CoinMarketCap",
+        "dateAdded": "Oct 17, 2019"
+      },
+      {
+        "title": "Althash University is Added to Codex Official Website",
+        "dateAdded": "Oct 1st, 2019"
+      },
+      {
+        "title": "Codex Freelance Forum is released",
+        "dateAdded": "Sept 15, 2019"
+      },
+      {
+        "title": "'CodexWalletBot' Is Adopted By The Althash Community And Hits 350 Users",
+        "dateAdded": "June 22, 2019"
+      },
+      {
+        "title": "Whitepaper And Roadmap are Completed",
+        "dateAdded": "May 20, 2019"
+      }
+    ]
   },
   "walletbot": {
     "section1":{

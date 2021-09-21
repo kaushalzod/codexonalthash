@@ -19,7 +19,7 @@
     <div class="container">
       <h2 class="heading_2">{{'news.section2.latest_news' | translate}}</h2>
       
-        <div class="col-sm-8 bg-white p-shadow p-round p-4 my-4" *ngFor="let item of news">
+        <div class="col-sm-8 bg-white p-shadow p-round p-4 my-4" *ngFor="let item of news; let i=index;">
             <div class="row ">
               <div class="col-md-4">
                 <img alt="image" class="img-fluid p-round news_img w-100" [src]="item.image">
@@ -27,12 +27,12 @@
               <div class="col-md-8 px-3" >
                 <div class="row h-100">
                     <div class="col-12 align-self-start">
-                        <h5><strong>{{item.title}}</strong></h5>
+                        <h5><strong>{{'news.allNews.'+ i + '.title' | translate}}</strong></h5>
                     </div>
                     <div class="col align-self-end">
                         <div class="row align-items-end">
                             <div class="col-6">
-                             <p class="fw-bold p-primary-dark m-0">{{item.dateAdded}}</p>
+                             <p class="fw-bold p-primary-dark m-0">{{'news.allNews.'+ i + '.dateAdded' | translate}}</p>
                             </div>
                             <div class="col-6 text-end">
                                 <button class="btn btn-dark btn-sm btn-shd">{{'news.section2.learn_more' | translate}}</button>

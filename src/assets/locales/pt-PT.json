@@ -295,7 +295,69 @@
       "section2":{
         "latest_news":"Últimas notícias",
         "learn_more":"Saber mais"
-      }
+      },
+      "allNews": [
+        {
+          "title": "O CDEXplorer está concluído. Uma versão reconstruída do explorador HTML",
+          "dateAdded": "2 de junho de 2020"
+        },
+        {
+          "title": "Graviex Lists CDEX with pairs in ETH, DOGE, & BTC",
+          "dateAdded": "2 de abril de 2020"
+        },
+        {
+          "title": "Conclusão do 5º Airdrop Mensal para VIPs",
+          "dateAdded": "31 de março de 2020"
+        },
+        {
+          "title": "Conclusão do 4º Airdrop Mensal para VIPs",
+          "dateAdded": "27 de fevereiro de 2020"
+        },
+        {
+          "title": "Conclusão do 3º Airdrop Mensal para VIPs",
+          "dateAdded": "30 de janeiro de 2020"
+        },
+        {
+          "title": "Token 'CDEX' é listado na Bolsa de criptomoedas STEX",
+          "dateAdded": "25 de janeiro de 2020"
+        },
+        {
+          "title": "Atualizações mensais do CodexWalletBot na primeira quinta-feira de cada mês!",
+          "dateAdded": "1 de janeiro de 2020"
+        },
+        {
+          "title": "Marcos para HTMLCoin em 2019",
+          "dateAdded": "1 de janeiro de 2020"
+        },
+        {
+          "title": "Conclusão do segundo Airdrop Mensal para VIPs",
+          "dateAdded": "28 de dezembro de 2019"
+        },
+        {
+          "title": "Lançamento de 'CDEX' Airdrops Mensais para VIPs no CodexWalletBot",
+          "dateAdded": "29 de novembro de 2019"
+        },
+        {
+          "title": "'CDEX' é listado no CoinMarketCap",
+          "dateAdded": "17 de outubro de 2019"
+        },
+        {
+          "title": "Althash University é adicionada ao site oficial do Codex",
+          "dateAdded": "1 de outubro de 2019"
+        },
+        {
+          "title": "O Codex Freelance Forum é lançado",
+          "dateAdded": "15 de setembro de 2019"
+        },
+        {
+          "title": "'CodexWalletBot' é adotado pela comunidade Althash e atinge 350 usuários",
+          "dateAdded": "22 de junho de 2019"
+        },
+        {
+          "title": "O white paper e o roteiro foram concluídos",
+          "dateAdded": "20 de maio de 2019"
+        }
+      ]
     },
     "walletbot": {
       "section1":{

@@ -129,8 +129,8 @@
                         </div>
                         <div class="row">
                             <div class="col-5 align-self-center">
-                                <img src="assets/Images/about/icon5.svg" alt="" srcset="">
-                                <img src="assets/Images/about/icon6.svg" alt="" class="ms-3 ml-4" srcset="">
+                                <a *ngIf="item.whitepaper != '' " [href]="item.whitepaper" target="_blank"> <img src="assets/Images/about/icon5.svg" alt="" srcset=""> </a>
+                                <!-- <img src="assets/Images/about/icon6.svg" alt="" class="ms-3 ml-4" srcset=""> -->
                             </div>
                             <div class="col-7 text-end">
                                 <button class="btn btn-dark btn-sm btn-shd">{{'about.section4.visit_website' |
