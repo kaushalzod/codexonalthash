@@ -58,24 +58,30 @@
     },
     "section6": {
       "heading": "코덱스 생태계",
+      "stack":"스테이킹 플랫폼",
       "subheading": "커뮤니티에서 사용할 수 있도록 만든 코덱스의 플랫폼입니다.",
       "workplace": {
         "heading": "코덱스 작업장",
-        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Molestie non facilisis ornare nam enim, vitae lacus vitae. Curabitur adipiscing feugiat euismod viverra vulputate lorem. Sit gravida molestie enim lorem. Egestas scelerisque aliquam at velit habitant et pellentesque vehicula nisl. Sed mi pulvinar eget semper auctor nisl feugiat.",
+        "firstc":"CodexWorkPlace는 연결을 목표로 합니다.:\n",
+        "content": "• 프리랜서    • 프로그래머   • 코더 \n   • 애플리케이터, 소프트웨어 및 블록체인 엔지니어 \n   • AI 기술에 입문하는 사람들 \n   • 진보적인 기술 산업에 종사하는 모든 사람\n개발자들은 'Codexworkplace'를 사용하여 작업을 나열하거나 나열된 작업을 수락하여 네트워크를 형성할 수 있습니다. 이는 Althash를 위한 고가치 소프트웨어 및 응용 프로그램을 만들기 위해 공통의 목표를 위해 일하는 비슷한 생각을 하고 열심히 일하는 프리랜서의 환경을 만듭니다. 여기서 CDEX는 할인 및 액세스 토큰으로 사용됩니다.",
         "btn1": "직장으로 이동",
         "btn2": ""
       },
       "walletbot": {
         "heading": "HRC 20 CodexWallet 봇",
-        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Molestie non facilisis ornare nam enim, vitae lacus vitae. Curabitur adipiscing feugiat euismod viverra vulputate lorem. Sit gravida molestie enim lorem. Egestas scelerisque aliquam at velit habitant et pellentesque vehicula nisl. Sed mi pulvinar eget semper auctor nisl feugiat.",
+        "content": "CodexWalletBot은 Althash에서 Codex가 실행한 최초의 완료되고 성공적인 애플리케이션입니다. 사용자는 Telegram에서 바로 완전한 기능의 HTML 지갑을 사용할 수 있습니다! HRC20 CDEX 봇의 VIP에는 사용자가 봇의 전체 기능을 경험할 수 있는 몇 가지 독점적인 기능이 포함되어 있습니다. 포함 사항: VIP 에어드랍, 에어드랍 로그, 무작위 월간 보상 등이 제공됩니다!",
         "btn1": "CodexWallet 봇으로 이동",
         "btn2": "더 알아보기"
       },
-      "university": {
-        "heading": "알타쉬 대학교",
-        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Molestie non facilisis ornare nam enim, vitae lacus vitae. Curabitur adipiscing feugiat euismod viverra vulputate lorem. Sit gravida molestie enim lorem. Egestas scelerisque aliquam at velit habitant et pellentesque vehicula nisl. Sed mi pulvinar eget semper auctor nisl feugiat.",
-        "btn1": "알타쉬 대학교로 이동",
+      "explorer": {
+        "heading": "HTML 탐색기",
+        "content": "Codex는 사용자가 HTML 블록체인에서 발생한 모든 트랜잭션, 현재 네트워크 해시율 및 트랜잭션 증가, 블록체인 주소에 대한 활동 등을 볼 수 있는 블록체인 탐색기를 제공합니다.",
         "btn2": "더 알아보기"
+      },
+      "stacking": {
+        "heading": "CDEX 스테이킹 플랫폼",
+        "content": "Codex는 사용자가 CDEX를 잠그고 수익을 올릴 수 있는 플랫폼을 제공했습니다! CDEX를 스테이킹함으로써 사용자는 초 단위로 더 많은 토큰을 구축할 수 있습니다. 사용자가 스테이킹하는 CDEX 토큰의 양에 따라 로열티 프로그램의 특정 계층에 대한 자격이 있을 수 있습니다. 'Codex Pawn', 'Codex Knight', 'Codex King'의 서로 다른 계층은 사용자에게 CDEX 스테이킹 % 부스터와 무작위 HRC20 보상 자격을 제공합니다.",
+        "btn1": "CDEX 스테이킹에 대해 자세히 알아보기"
       }
     },
     "section7": {

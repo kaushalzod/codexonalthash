@@ -79,6 +79,11 @@
           "btn1": "Vá para a Universidade Althash",
           "btn2": "Saber mais"
         },
+        "explorer": {
+          "heading": "Explorador de HTML",
+          "content": "O Codex fornece um explorador de blockchain para os usuários visualizarem todas as transações que ocorreram no blockchain HTML, a taxa de hash da rede atual e o crescimento da transação, e a atividade em endereços de blockchain, entre outras informações úteis.",
+          "btn2": "Saber mais"
+        },
         "stacking": {
           "heading": "Plataforma de fixação CDEX",
           "content": "O Codex forneceu uma plataforma para os usuários travarem seu CDEX e ganharem! Ao apostar no CDEX, os usuários podem acumular mais tokens a cada segundo. De acordo com a quantidade de tokens CDEX que um usuário está apostando, ele pode se qualificar para determinados níveis no programa de fidelidade. Esses níveis diferentes, 'Codex Pawn', 'Codex Knight' e 'Codex King', oferecem aos usuários um reforço de% de staking CDEX e elegibilidade de recompensa HRC20 aleatória.",
