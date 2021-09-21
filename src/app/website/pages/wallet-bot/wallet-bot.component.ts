@@ -12,4 +12,7 @@ export class WalletBotComponent implements OnInit {
   ngOnInit(): void {
   }
 
+  openLink(Url:any){
+    window.open(Url);
+  }
 }

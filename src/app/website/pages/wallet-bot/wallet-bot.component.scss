@@ -59,6 +59,9 @@ background: linear-gradient(93.43deg, #574FE8 1.61%, #4112FF 100.53%);
 .hero_bg{
     background-image: url(/assets/Images/wallet/hero_bg.png);
 }
+.bordercolor{
+    border-block-color: #9793e67e;
+}
 
 @media (max-width: 768px) {
     .p-11rem{

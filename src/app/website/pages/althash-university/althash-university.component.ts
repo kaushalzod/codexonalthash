@@ -19,4 +19,10 @@ export class AlthashUniversityComponent implements OnInit {
   closeModel(){
     $('#thanksModal').modal('hide');
   }
+  
+  openLink(Url:any){
+    window.open(Url);
+  }
+
+  
 }
