@@ -52,7 +52,7 @@
       "from_more_than": "AltHash에서 사용 가능한 20개 이상의 커뮤니티 토큰에서. CDEX가 그 중 하나입니다. 2019년 3월 제작 Lorem ipsum dolor sit met, consectetur adipiscing elit. Quis placerat enim sapien augue aliquet semper at integer.",
       "made_on_althash": "알타시에서 만든",
       "quick_and_eff": "빠르고 효율적",
-      "available_on": "10개 이상의 거래소에서 사용 가능",
+      "available_on": "4개의 거래소에서 사용 가능",
       "explore_other_community": "ALTHASH의 다른 커뮤니티 토큰 살펴보기",
       "buy_now": "지금 구매"
     },
@@ -76,7 +76,7 @@
       "explorer": {
         "heading": "HTML 탐색기",
         "content": "Codex는 사용자가 HTML 블록체인에서 발생한 모든 트랜잭션, 현재 네트워크 해시율 및 트랜잭션 증가, 블록체인 주소에 대한 활동 등을 볼 수 있는 블록체인 탐색기를 제공합니다.",
-        "btn2": "더 알아보기"
+        "btn2": "블록 탐색기로 이동"
       },
       "stacking": {
         "heading": "CDEX 스테이킹 플랫폼",
@@ -336,7 +336,8 @@
     "dropdown1": {
       "item1": "코덱스 작업장",
       "item2": "코덱스 지갑 봇",
-      "item3": "알타쉬 대학교"
+      "item3": "스테이킹 플랫폼",
+      "item4": "HTML 탐색기"
     },
     "dropdown2": {
       "item1": "텔레그램 커뮤니티",

@@ -33,6 +33,9 @@ export class HomepageComponent implements OnInit {
   closeModel(){
     $('#exchangeModal').modal('hide');
   }
+  openLink(Url:any){
+    window.open(Url);
+  }
    profileCarousel: any = {
     loop: false,
     navSpeed: 700,

@@ -195,9 +195,9 @@
                                 | translate}} <span>&nbsp;</span><img src="assets/ch-right_sm.svg" alt="" srcset=""></a>
                         </p>
                     </div>
-                    <p class="mt-3 px-3 px-md-0"><a href="#"
+                    <!-- <p class="mt-3 px-3 px-md-0"><a href="#"
                             class="underline p-primary-light font-weight-bold ">{{'homepage.section5.explore_other_community'
-                            | translate}}</a><span>&nbsp;</span><img src="assets/ch-right_sm.svg" alt="" srcset=""></p>
+                            | translate}}</a><span>&nbsp;</span><img src="assets/ch-right_sm.svg" alt="" srcset=""></p> -->
                 </div>
             </div>
             <div class="col-12 col-md-8 ml-auto col-lg-6">
@@ -294,8 +294,9 @@
                     <div class="platform-content">
                         <h4 class="heading_2">{{'homepage.section6.workplace.heading' | translate}}</h4>
                         <p class="p_big_200 p-grey my-t-p"><b>{{'homepage.section6.workplace.firstc' | translate}}</b>{{'homepage.section6.workplace.content' | translate}}</p>
-                        <button class="btn btn-purple btn-sm btn-pshd" target="_blank"
-                            href="https://codexworkplace.com/">{{'homepage.section6.workplace.btn1' | translate}}</button>
+                        <button class="btn btn-purple btn-sm btn-pshd" (click)="openLink('https://codexworkplace.com/')">
+                            {{'homepage.section6.workplace.btn1' | translate}}
+                        </button>
                     </div>
                 </div>
             </div>
@@ -310,8 +311,8 @@
                     <div class="platform-content">
                         <h4 class="heading_2">{{'homepage.section6.walletbot.heading' | translate}}</h4>
                         <p class="p_big_200 p-grey">{{'homepage.section6.walletbot.content' | translate}} </p>
-                        <button class="btn btn-purple btn-sm btn-pshd" target="_blank"
-                            href="http://t.me/CodexWalletBot">{{'homepage.section6.walletbot.btn1' | translate}}</button>
+                        <button class="btn btn-purple btn-sm btn-pshd" (click)="openLink('http://t.me/CodexWalletBot')">
+                            {{'homepage.section6.walletbot.btn1' | translate}}</button>
                         <button class="btn btn-dark btn-sm btn-shd ml-4" routerLink="/walletbot"> Learn
                             More </button>
                     </div>
@@ -329,8 +330,9 @@
                         <h4 class="heading_2">{{'homepage.section6.explorer.heading' | translate}}</h4>
                         <p class="p_big_200 p-grey">{{'homepage.section6.explorer.content' | translate}}</p>
                         <!-- <button class="btn btn-purple btn-lg p-shadow"> Apply </button> -->
-                        <button class="btn btn-purple btn-sm btn-pshd" target="_blank"
-                            href="http://CDEXplorer.net">{{'homepage.section6.explorer.btn2' | translate}}</button>
+                        <button class="btn btn-purple btn-sm btn-pshd" (click)="openLink('http://CDEXplorer.net')">
+                            {{'homepage.section6.explorer.btn2' | translate}}
+                       </button>
                         <!-- <button class="btn btn-dark btn-sm btn-shd ml-4" routerLink="/althash-university"> Learn More
                         </button> -->
                     </div>
@@ -349,10 +351,11 @@
                         <h4 class="heading_2">{{'homepage.section6.stacking.heading' | translate}}</h4>
                         <p class="p_big_200 p-grey">{{'homepage.section6.stacking.content' | translate}}</p>
                         <!-- <button class="btn btn-purple btn-lg p-shadow"> Apply </button> -->
-                        <button class="btn btn-purple btn-sm btn-pshd" target="_blank"
-                            href="http://t.me/CodexWalletBot">{{'homepage.section6.stacking.btn1' | translate}}</button>
-                        <button class="btn btn-dark btn-sm btn-shd ml-md-4 mt-4 mt-md-0" routerLink="/althash-university"> Learn More
+                        <button class="btn btn-purple btn-sm btn-pshd" (click)="openLink('https://app.codextoken.io')">
+                            {{'homepage.section6.stacking.btn1' | translate}}
                         </button>
+                        <!-- <button class="btn btn-dark btn-sm btn-shd ml-md-4 mt-4 mt-md-0" routerLink="/althash-university"> Learn More
+                        </button> -->
                     </div>
 
                 </div>
@@ -643,45 +646,45 @@
                 <div class="row justify-content-center">
                     <div class="col-md-5 p-round border border-1 p-2 m-2">
                         <div class="row">
-                            <div class="col-4">
-                                <img src="assets/Images/university/model_icon1.png" class="p-shadow" alt="">
+                            <div class="col-4 m-auto">
+                                <img style="background-color: #9e9393;" src="https://graviex.net/landing/8fce09_23c4985a24d04869894e443fd3277020~mv2.png" class="p-shadow" alt="">
                             </div>
                             <div class="col-8 ps-0 align-self-center">
-                                <h5 class="fw-bold p-grey">Coinmarketcap</h5>
-                                <a href="" class="p-primary-dark underline">Go to exchange</a> &nbsp;<img src="assets/ch-right_sm.svg" alt="" srcset="">
+                                <h5 class="fw-bold p-grey">Graviex</h5>
+                                <a href="https://graviex.net/desktop" target="_blank" class="p-primary-dark underline">Go to exchange</a> &nbsp;<img src="assets/ch-right_sm.svg" alt="" srcset="">
                             </div>
                         </div>
                     </div>
                     <div class="col-md-5 p-round border border-1 p-2 m-2">
                         <div class="row">
                             <div class="col-4">
-                                <img src="assets/Images/university/model_icon2.png" class="p-shadow" alt="">
+                                <img src="https://s2.coinmarketcap.com/static/img/exchanges/64x64/245.png" class="p-shadow" alt="">
                             </div>
                             <div class="col-8 ps-0 align-self-center">
-                                <h5 class="fw-bold p-grey">Binance</h5>
-                                <a href="" class="p-primary-dark underline">Go to exchange</a> &nbsp;<img src="assets/ch-right_sm.svg" alt="" srcset="">
+                                <h5 class="fw-bold p-grey">STEX</h5>
+                                <a href="https://app.stex.com/en/trading/pair/ETH/CDEX/1D" target="_blank" class="p-primary-dark underline">Go to exchange</a> &nbsp;<img src="assets/ch-right_sm.svg" alt="" srcset="">
                             </div>
                         </div>
                     </div>
                     <div class="col-md-5 p-round border border-1 p-2 m-2">
                         <div class="row">
                             <div class="col-4 justify-content-center align-self-center">
-                                <img src="assets/Images/university/model_icon3.png" class="p-shadow" alt="">
+                                <img src="https://s2.coinmarketcap.com/static/img/exchanges/64x64/514.png" class="p-shadow" alt="">
                             </div>
                             <div class="col-8 ps-0 align-self-center">
-                                <h5 class="fw-bold p-grey">Coin CDX</h5>
-                                <a href="" class="p-primary-dark underline">Go to exchange</a> &nbsp;<img src="assets/ch-right_sm.svg" alt="" srcset="">
+                                <h5 class="fw-bold p-grey">Finebox</h5>
+                                <a href="https://www.finexbox.com/" target="_blank" class="p-primary-dark underline">Go to exchange</a> &nbsp;<img src="assets/ch-right_sm.svg" alt="" srcset="">
                             </div>
                         </div>
                     </div>
                     <div class="col-md-5 p-round border border-1 p-2 m-2">
                         <div class="row">
-                            <div class="col-4">
-                                <img src="assets/Images/university/model_icon4.png" class="p-shadow" alt="">
+                            <div class="col-4 m-auto">
+                                <img style="background-color: #18222F;" src="https://global.bittrex.com/wp-content/themes/bittrex/dist/images/logos/bittrex-logo-global.svg" class="p-shadow" alt="">
                             </div>
                             <div class="col-8 ps-0 align-self-center">
-                                <h5 class="fw-bold p-grey">Wazir X</h5>
-                                <a href="" class="p-primary-dark underline">Go to exchange</a> &nbsp;<img src="assets/ch-right_sm.svg" alt="" srcset="">
+                                <h5 class="fw-bold p-grey">Bittrex</h5>
+                                <a href="https://global.bittrex.com/" target="_blank" class="p-primary-dark underline">Go to exchange</a> &nbsp;<img src="assets/ch-right_sm.svg" alt="" srcset="">
                             </div>
                         </div>
                     </div>

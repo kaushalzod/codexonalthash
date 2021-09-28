@@ -52,7 +52,7 @@
       "from_more_than": "From more than 20+ available community tokens on AltHash. CDEX is one of them. Made in March 2019 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quis placerat enim sapien augue aliquet semper at integer.",
       "made_on_althash": "Made on Althash",
       "quick_and_eff": "Quick and Efficient",
-      "available_on": "Available on 10+ Exchanges",
+      "available_on": "Available on 4 Exchanges",
       "explore_other_community": "EXPLORE OTHER COMMUNITY TOKENS ON ALTHASH ",
       "buy_now": "Buy Now "
     },
@@ -76,7 +76,7 @@
       "explorer": {
         "heading": "HTML Explorer",
         "content": "Codex provides a blockchain explorer for users to view all transactions that have taken place on the HTML blockchain, the current network hash rate and transaction growth, and the activity on blockchain addresses, among other useful information.",
-        "btn2": "Learn More"
+        "btn2": "Go to Block Explorer"
       },
       "stacking": {
         "heading": "CDEX Staking Platform",
@@ -440,7 +440,8 @@
     "dropdown1": {
       "item1": "Codex Workplace",
       "item2": "Codex Wallet Bot",
-      "item3": "Altash University"
+      "item3": "Staking Platform",
+      "item4": "HTML Explorer"
     },
     "dropdown2": {
       "item1": "Telegram Community",
