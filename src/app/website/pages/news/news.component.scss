@@ -17,4 +17,14 @@ h5{
         height: 220px;
         object-fit: cover;
     }
+    .news-sec{
+        margin-bottom: 12rem;
+    }
+}
+
+
+    @media (max-width:576px){
+    .news-sec{
+        margin-bottom: 10rem;
+    }
 }

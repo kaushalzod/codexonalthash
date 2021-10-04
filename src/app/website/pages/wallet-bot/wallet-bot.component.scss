@@ -81,5 +81,11 @@ background: linear-gradient(93.43deg, #574FE8 1.61%, #4112FF 100.53%);
     }
     .hero_bg{
         background-image: url(/assets/Images/wallet/phone_hero_bg.png);
+        background-position: 0 -8vh;
+    }
+}
+@media (max-width: 576px) {
+    .hero_bg{
+        background-position: 0 -3vh;
     }
 }
