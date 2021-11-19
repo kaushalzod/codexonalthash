@@ -102,6 +102,10 @@ export class NewsComponent implements OnInit {
     },
   ]
 
+  openLink(Url:any){
+    window.open(Url);
+  }
+  
   ngOnInit(): void {
   }
 

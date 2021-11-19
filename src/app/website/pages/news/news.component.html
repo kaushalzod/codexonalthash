@@ -35,7 +35,7 @@
                              <p class="fw-bold p-primary-dark m-0">{{'news.allNews.'+ i + '.dateAdded' | translate}}</p>
                             </div>
                             <div class="col-6 text-end">
-                                <button class="btn btn-dark btn-sm btn-shd">{{'news.section2.learn_more' | translate}}</button>
+                                <button (click)="openLink(item.link)" class="btn btn-dark btn-sm btn-shd">{{'news.section2.learn_more' | translate}}</button>
                             </div>
                          </div>
                     </div>
